@@ -1,0 +1,14 @@
+{
+    "updated": "2023-11-15T14:30:45Z",
+    "data": {
+      "valid": 5000,
+      "invalid": 59,
+      "receipts_count": 5059,
+
+      "changes": {
+        "valid": -12.5,
+        "invalid": 4.2,
+        "receipts_count": 1.7
+      }
+    }
+  }

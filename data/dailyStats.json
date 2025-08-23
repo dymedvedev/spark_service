@@ -1,0 +1,15 @@
+{
+    "updated": "2023-11-15T14:30:45Z",
+    "data": {
+      "revenue": 248500,
+      "avg_receipt": 1250,
+      "receipts_count": 198,
+      "customers": 156,
+      "changes": {
+        "revenue": 12.5,
+        "avg_receipt": 3.2,
+        "receipts_count": 8.7,
+        "customers": 5.3
+      }
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "updated": "2025-11-15T14:30:45Z",
+    "data": {
+      "revenue": 248500,
+      "product_count": 729,
+      "product_count_receipt": 4,
+
+      "changes": {
+        "revenue": 10.5,
+        "product_count": 4.2,
+        "product_count_receipt": -1.7
+      }
+    }
+  }

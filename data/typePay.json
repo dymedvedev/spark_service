@@ -1,0 +1,8 @@
+{
+    "payload": {
+          "cash": 6500,
+          "card": 3500,
+          "cashChange": 5.3,
+          "cardChange": -2.7          
+    }
+  }

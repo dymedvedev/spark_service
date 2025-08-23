@@ -1,0 +1,4126 @@
+[
+  {
+    "Items": [
+      {
+        "Name": "Свободный Натуральный Майка",
+        "Price": 999.63,
+        "Quantity": 2,
+        "Sum": 1999.26,
+        "InvoiceType": 1,
+        "InvoiceSum": 1999.26,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ПАО СалехардГруппСнабРус"
+      },
+      {
+        "Name": "Свободный Хлопковый Берет",
+        "Price": 41.91,
+        "Quantity": 6,
+        "Sum": 251.46,
+        "InvoiceType": 1,
+        "InvoiceSum": 251.46,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ГУП СбытТорг"
+      },
+      {
+        "Name": "Фантастический Гранитный Плащ",
+        "Price": 347.2,
+        "Quantity": 2,
+        "Sum": 694.4,
+        "InvoiceType": 1,
+        "InvoiceSum": 694.4,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ПАО РусСистемс"
+      },
+      {
+        "Name": "Лоснящийся Неодимовый Майка",
+        "Price": 518.66,
+        "Quantity": 9,
+        "Sum": 4667.94,
+        "InvoiceType": 1,
+        "InvoiceSum": 4667.94,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ОП Капустин"
+      }
+    ],
+    "Id": 31247,
+    "User": 6573,
+    "CreatedAt": "2025-08-09T22:28:22.094Z",
+    "TotalSum": 7613.06
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Стальной Компьютер",
+        "Price": 855.25,
+        "Quantity": 6,
+        "Sum": 5131.5,
+        "InvoiceType": 1,
+        "InvoiceSum": 5131.5,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ФГУП ИнкорпорэйтедПромСбыт"
+      },
+      {
+        "Name": "Интеллектуальный Кожанный Плащ",
+        "Price": 312.7,
+        "Quantity": 5,
+        "Sum": 1563.5,
+        "InvoiceType": 1,
+        "InvoiceSum": 1563.5,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ФГУП Агата"
+      }
+    ],
+    "Id": 65152,
+    "User": 6843,
+    "CreatedAt": "2025-08-18T14:23:25.237Z",
+    "TotalSum": 6695
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Деревянный Стол (услуга)",
+        "Price": 571.12,
+        "Quantity": 6,
+        "Sum": 3426.72,
+        "InvoiceType": 2,
+        "InvoiceSum": 3426.72,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "НКО СбытЛимитед"
+      },
+      {
+        "Name": "Маленький Бетонный Компьютер (услуга)",
+        "Price": 309.89,
+        "Quantity": 7,
+        "Sum": 2169.23,
+        "InvoiceType": 2,
+        "InvoiceSum": 2169.23,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "НКО КалевалаПромГруппПром"
+      }
+    ],
+    "Id": 73014,
+    "User": 7572,
+    "CreatedAt": "2025-07-28T01:27:28.077Z",
+    "TotalSum": 5595.95
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Гранитный Портмоне (услуга)",
+        "Price": 683.3,
+        "Quantity": 2,
+        "Sum": 1366.6,
+        "InvoiceType": 2,
+        "InvoiceSum": 1366.6,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "МУП ЮжноуральскСистемс"
+      },
+      {
+        "Name": "Эргономичный Резиновый Ножницы (услуга)",
+        "Price": 243.98,
+        "Quantity": 6,
+        "Sum": 1463.88,
+        "InvoiceType": 2,
+        "InvoiceSum": 1463.88,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "НКО Милица"
+      },
+      {
+        "Name": "Фантастический Резиновый Шарф (услуга)",
+        "Price": 688.85,
+        "Quantity": 3,
+        "Sum": 2066.55,
+        "InvoiceType": 2,
+        "InvoiceSum": 2066.55,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ЗАО ТрейдТоргГрупп"
+      },
+      {
+        "Name": "Практичный Пластиковый Стол (услуга)",
+        "Price": 912.83,
+        "Quantity": 9,
+        "Sum": 8215.47,
+        "InvoiceType": 2,
+        "InvoiceSum": 8215.47,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ГУП КаменномостскийЛимитедГруппИнкорпорэйтед"
+      },
+      {
+        "Name": "Невероятный Меховой Свитер (услуга)",
+        "Price": 509.01,
+        "Quantity": 1,
+        "Sum": 509.01,
+        "InvoiceType": 2,
+        "InvoiceSum": 509.01,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Красногорск (Моск.)ПромПромГрупп"
+      }
+    ],
+    "Id": 21818,
+    "User": 5383,
+    "CreatedAt": "2025-08-02T03:53:51.283Z",
+    "TotalSum": 13621.51
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Пластиковый Кепка (услуга)",
+        "Price": 305.25,
+        "Quantity": 7,
+        "Sum": 2136.75,
+        "InvoiceType": null,
+        "InvoiceSum": 2136.75,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ГУП СочиГрупп"
+      },
+      {
+        "Name": "Интеллектуальный Хлопковый Кошелек (услуга)",
+        "Price": 42.38,
+        "Quantity": 9,
+        "Sum": 381.42,
+        "InvoiceType": null,
+        "InvoiceSum": 381.42,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "ИП НурлатПромЛимитедИнкорпорэйтед"
+      },
+      {
+        "Name": "Фантастический Меховой Майка (услуга)",
+        "Price": 724.19,
+        "Quantity": 1,
+        "Sum": 724.19,
+        "InvoiceType": null,
+        "InvoiceSum": 724.19,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ФГУП Аникей"
+      }
+    ],
+    "Id": 28625,
+    "User": 5810,
+    "CreatedAt": "2025-08-13T17:43:51.439Z",
+    "TotalSum": 3242.36
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Деревянный Портмоне",
+        "Price": 640.15,
+        "Quantity": 4,
+        "Sum": 2560.6,
+        "InvoiceType": 1,
+        "InvoiceSum": 2560.6,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ОАО ТоргГрупп"
+      }
+    ],
+    "Id": 38143,
+    "User": 7176,
+    "CreatedAt": "2025-08-19T05:34:12.796Z",
+    "TotalSum": 2560.6
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Кожанный Кошелек (услуга)",
+        "Price": 606.45,
+        "Quantity": 8,
+        "Sum": 4851.6,
+        "InvoiceType": null,
+        "InvoiceSum": 4851.6,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ГУП КаневскаяЛимитедТорг"
+      },
+      {
+        "Name": "Великолепный Резиновый Ножницы (услуга)",
+        "Price": 684.79,
+        "Quantity": 4,
+        "Sum": 2739.16,
+        "InvoiceType": null,
+        "InvoiceSum": 2739.16,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ПАО КарабулакТорг"
+      },
+      {
+        "Name": "Свободный Натуральный Ремень (услуга)",
+        "Price": 238.42,
+        "Quantity": 8,
+        "Sum": 1907.36,
+        "InvoiceType": null,
+        "InvoiceSum": 1907.36,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ОАО ТоксовоПром"
+      }
+    ],
+    "Id": 97454,
+    "User": 9924,
+    "CreatedAt": "2025-08-12T13:17:31.700Z",
+    "TotalSum": 9498.12
+  },
+  {
+    "Items": [
+      {
+        "Name": "Большой Пластиковый Ботинок",
+        "Price": 831.23,
+        "Quantity": 1,
+        "Sum": 831.23,
+        "InvoiceType": null,
+        "InvoiceSum": 831.23,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОАО ПромСистемсТрейд"
+      },
+      {
+        "Name": "Маленький Резиновый Свитер",
+        "Price": 838.54,
+        "Quantity": 4,
+        "Sum": 3354.16,
+        "InvoiceType": null,
+        "InvoiceSum": 3354.16,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "ФГУП ЛимитедРус"
+      },
+      {
+        "Name": "Невероятный Гранитный Кулон",
+        "Price": 503.07,
+        "Quantity": 10,
+        "Sum": 5030.7,
+        "InvoiceType": null,
+        "InvoiceSum": 5030.7,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ТСЖ КыштымИнкорпорэйтедГруппИнкорпорэйтед"
+      },
+      {
+        "Name": "Фантастический Гранитный Кулон",
+        "Price": 928.6,
+        "Quantity": 3,
+        "Sum": 2785.8,
+        "InvoiceType": null,
+        "InvoiceSum": 2785.8,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "НКО КалининградСнаб"
+      }
+    ],
+    "Id": 89072,
+    "User": 2440,
+    "CreatedAt": "2025-08-03T21:30:50.469Z",
+    "TotalSum": 12001.89
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Стальной Ремень",
+        "Price": 528.57,
+        "Quantity": 2,
+        "Sum": 1057.14,
+        "InvoiceType": null,
+        "InvoiceSum": 1057.14,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ФГУП ТоргСнаб"
+      },
+      {
+        "Name": "Потрясающий Деревянный Плащ",
+        "Price": 122.99,
+        "Quantity": 7,
+        "Sum": 860.93,
+        "InvoiceType": null,
+        "InvoiceSum": 860.93,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ОАО Терентьев"
+      },
+      {
+        "Name": "Маленький Хлопковый Ножницы",
+        "Price": 962.45,
+        "Quantity": 1,
+        "Sum": 962.45,
+        "InvoiceType": null,
+        "InvoiceSum": 962.45,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ПАО Вацлав"
+      }
+    ],
+    "Id": 36982,
+    "User": 3805,
+    "CreatedAt": "2025-08-18T12:52:16.268Z",
+    "TotalSum": 2880.52
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Натуральный Куртка",
+        "Price": 369.54,
+        "Quantity": 2,
+        "Sum": 739.08,
+        "InvoiceType": 1,
+        "InvoiceSum": 739.08,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "МУП СеровГруппИнкорпорэйтедСнаб"
+      }
+    ],
+    "Id": 36237,
+    "User": 1597,
+    "CreatedAt": "2025-07-30T00:23:52.031Z",
+    "TotalSum": 739.08
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Меховой Плащ",
+        "Price": 228.29,
+        "Quantity": 8,
+        "Sum": 1826.32,
+        "InvoiceType": 1,
+        "InvoiceSum": 1826.32,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "ИП Валерия"
+      },
+      {
+        "Name": "Великолепный Неодимовый Компьютер",
+        "Price": 576.58,
+        "Quantity": 6,
+        "Sum": 3459.48,
+        "InvoiceType": 1,
+        "InvoiceSum": 3459.48,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОАО Верещагино (Перм.)Снаб"
+      },
+      {
+        "Name": "Свободный Кожанный Кошелек",
+        "Price": 148.98,
+        "Quantity": 9,
+        "Sum": 1340.82,
+        "InvoiceType": 1,
+        "InvoiceSum": 1340.82,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ФГУП ГруппГрупп"
+      },
+      {
+        "Name": "Маленький Натуральный Ножницы",
+        "Price": 89.1,
+        "Quantity": 10,
+        "Sum": 891,
+        "InvoiceType": 1,
+        "InvoiceSum": 891,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ООО ИнкорпорэйтедСистемсЛимитед"
+      },
+      {
+        "Name": "Большой Гранитный Ремень",
+        "Price": 978.25,
+        "Quantity": 5,
+        "Sum": 4891.25,
+        "InvoiceType": 1,
+        "InvoiceSum": 4891.25,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Эрнест"
+      }
+    ],
+    "Id": 35576,
+    "User": 4360,
+    "CreatedAt": "2025-07-26T09:06:08.693Z",
+    "TotalSum": 12408.87
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Пластиковый Шарф (услуга)",
+        "Price": 389.76,
+        "Quantity": 10,
+        "Sum": 3897.6,
+        "InvoiceType": 2,
+        "InvoiceSum": 3897.6,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ИП Тимофей"
+      },
+      {
+        "Name": "Лоснящийся Пластиковый Кепка (услуга)",
+        "Price": 680.3,
+        "Quantity": 8,
+        "Sum": 5442.4,
+        "InvoiceType": 2,
+        "InvoiceSum": 5442.4,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ОП Анжелика"
+      },
+      {
+        "Name": "Практичный Стальной Стул (услуга)",
+        "Price": 303.35,
+        "Quantity": 5,
+        "Sum": 1516.75,
+        "InvoiceType": 2,
+        "InvoiceSum": 1516.75,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ИП Владилен"
+      },
+      {
+        "Name": "Интеллектуальный Бетонный Кулон (услуга)",
+        "Price": 402.56,
+        "Quantity": 1,
+        "Sum": 402.56,
+        "InvoiceType": 2,
+        "InvoiceSum": 402.56,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "МУП Москва, МГУТрейдЛимитедСистемс"
+      },
+      {
+        "Name": "Большой Меховой Майка (услуга)",
+        "Price": 214.97,
+        "Quantity": 4,
+        "Sum": 859.88,
+        "InvoiceType": 2,
+        "InvoiceSum": 859.88,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ПАО КурумканСбыт"
+      }
+    ],
+    "Id": 35902,
+    "User": 6887,
+    "CreatedAt": "2025-07-25T23:15:42.968Z",
+    "TotalSum": 12119.19
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Неодимовый Ремень",
+        "Price": 473.36,
+        "Quantity": 8,
+        "Sum": 3786.88,
+        "InvoiceType": null,
+        "InvoiceSum": 3786.88,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ИП Кошелев"
+      },
+      {
+        "Name": "Большой Пластиковый Компьютер",
+        "Price": 548.52,
+        "Quantity": 2,
+        "Sum": 1097.04,
+        "InvoiceType": null,
+        "InvoiceSum": 1097.04,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ОАО РыбинскПромРусПром"
+      },
+      {
+        "Name": "Большой Пластиковый Портмоне",
+        "Price": 432.11,
+        "Quantity": 7,
+        "Sum": 3024.77,
+        "InvoiceType": null,
+        "InvoiceSum": 3024.77,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ КудымкарИнкорпорэйтедГрупп"
+      }
+    ],
+    "Id": 24277,
+    "User": 6311,
+    "CreatedAt": "2025-08-07T16:31:29.076Z",
+    "TotalSum": 7908.69
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Бетонный Кошелек",
+        "Price": 214.82,
+        "Quantity": 8,
+        "Sum": 1718.56,
+        "InvoiceType": null,
+        "InvoiceSum": 1718.56,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ИП СистемсИнкорпорэйтедСистемс"
+      },
+      {
+        "Name": "Интеллектуальный Меховой Ремень",
+        "Price": 850.71,
+        "Quantity": 8,
+        "Sum": 6805.68,
+        "InvoiceType": null,
+        "InvoiceSum": 6805.68,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "AO МагнитогорскТрейдРус"
+      },
+      {
+        "Name": "Невероятный Неодимовый Кошелек",
+        "Price": 115.5,
+        "Quantity": 2,
+        "Sum": 231,
+        "InvoiceType": null,
+        "InvoiceSum": 231,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ИП СлюдянкаПромПромСистемс"
+      },
+      {
+        "Name": "Великолепный Деревянный Клатч",
+        "Price": 625.73,
+        "Quantity": 2,
+        "Sum": 1251.46,
+        "InvoiceType": null,
+        "InvoiceSum": 1251.46,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ПАО ЧерняховскГрупп"
+      }
+    ],
+    "Id": 77773,
+    "User": 6001,
+    "CreatedAt": "2025-08-11T23:35:12.420Z",
+    "TotalSum": 10006.7
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Кожанный Плащ (услуга)",
+        "Price": 764.39,
+        "Quantity": 9,
+        "Sum": 6879.51,
+        "InvoiceType": null,
+        "InvoiceSum": 6879.51,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ОАО Ульяна"
+      }
+    ],
+    "Id": 92493,
+    "User": 1724,
+    "CreatedAt": "2025-07-30T19:09:12.595Z",
+    "TotalSum": 6879.51
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Меховой Свитер (услуга)",
+        "Price": 672.82,
+        "Quantity": 10,
+        "Sum": 6728.2,
+        "InvoiceType": 2,
+        "InvoiceSum": 6728.2,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ОП Троицк (Моск.)ГруппСнаб"
+      },
+      {
+        "Name": "Фантастический Пластиковый Носки (услуга)",
+        "Price": 212.15,
+        "Quantity": 8,
+        "Sum": 1697.2,
+        "InvoiceType": 2,
+        "InvoiceSum": 1697.2,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ФГУП ЖиганскРусСистемсТорг"
+      },
+      {
+        "Name": "Невероятный Пластиковый Кепка (услуга)",
+        "Price": 884.47,
+        "Quantity": 7,
+        "Sum": 6191.29,
+        "InvoiceType": 2,
+        "InvoiceSum": 6191.29,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "НКО Полина"
+      },
+      {
+        "Name": "Свободный Натуральный Кошелек (услуга)",
+        "Price": 471.03,
+        "Quantity": 2,
+        "Sum": 942.06,
+        "InvoiceType": 2,
+        "InvoiceSum": 942.06,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ИП ГудермесГруппСнаб"
+      }
+    ],
+    "Id": 84853,
+    "User": 5261,
+    "CreatedAt": "2025-08-19T14:44:06.020Z",
+    "TotalSum": 15558.75
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Кожанный Стул (услуга)",
+        "Price": 488.66,
+        "Quantity": 2,
+        "Sum": 977.32,
+        "InvoiceType": null,
+        "InvoiceSum": 977.32,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "МУП Лариса"
+      },
+      {
+        "Name": "Фантастический Бетонный Куртка (услуга)",
+        "Price": 971.68,
+        "Quantity": 4,
+        "Sum": 3886.72,
+        "InvoiceType": null,
+        "InvoiceSum": 3886.72,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Гусев"
+      },
+      {
+        "Name": "Маленький Меховой Берет (услуга)",
+        "Price": 197.58,
+        "Quantity": 5,
+        "Sum": 987.9,
+        "InvoiceType": null,
+        "InvoiceSum": 987.9,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "ПАО СистемсРусГрупп"
+      },
+      {
+        "Name": "Интеллектуальный Неодимовый Клатч (услуга)",
+        "Price": 360.39,
+        "Quantity": 8,
+        "Sum": 2883.12,
+        "InvoiceType": null,
+        "InvoiceSum": 2883.12,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ПАО КогалымТоргРус"
+      }
+    ],
+    "Id": 43911,
+    "User": 9569,
+    "CreatedAt": "2025-08-10T10:20:22.461Z",
+    "TotalSum": 8735.06
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Гранитный Сабо (услуга)",
+        "Price": 341.15,
+        "Quantity": 8,
+        "Sum": 2729.2,
+        "InvoiceType": null,
+        "InvoiceSum": 2729.2,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ОП ГубкинскийРус"
+      }
+    ],
+    "Id": 70431,
+    "User": 3713,
+    "CreatedAt": "2025-07-24T12:41:08.433Z",
+    "TotalSum": 2729.2
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Пластиковый Куртка (услуга)",
+        "Price": 646.11,
+        "Quantity": 7,
+        "Sum": 4522.77,
+        "InvoiceType": 2,
+        "InvoiceSum": 4522.77,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ОАО Доронин"
+      },
+      {
+        "Name": "Лоснящийся Неодимовый Майка (услуга)",
+        "Price": 162.97,
+        "Quantity": 6,
+        "Sum": 977.82,
+        "InvoiceType": 2,
+        "InvoiceSum": 977.82,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "НКО СнабТорг"
+      }
+    ],
+    "Id": 40162,
+    "User": 7438,
+    "CreatedAt": "2025-08-01T02:23:43.896Z",
+    "TotalSum": 5500.59
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Резиновый Клатч",
+        "Price": 918.46,
+        "Quantity": 5,
+        "Sum": 4592.3,
+        "InvoiceType": 1,
+        "InvoiceSum": 4592.3,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ЗАО КулундаСбытЛимитед"
+      },
+      {
+        "Name": "Эргономичный Гранитный Куртка",
+        "Price": 69.6,
+        "Quantity": 7,
+        "Sum": 487.2,
+        "InvoiceType": 1,
+        "InvoiceSum": 487.2,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ГУП Горшков"
+      },
+      {
+        "Name": "Практичный Хлопковый Ремень",
+        "Price": 78.43,
+        "Quantity": 7,
+        "Sum": 549.01,
+        "InvoiceType": 1,
+        "InvoiceSum": 549.01,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "НКО АчинскСистемсРусГрупп"
+      }
+    ],
+    "Id": 71568,
+    "User": 6410,
+    "CreatedAt": "2025-08-02T05:37:49.540Z",
+    "TotalSum": 5628.51
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Кожанный Куртка",
+        "Price": 793.77,
+        "Quantity": 9,
+        "Sum": 7143.93,
+        "InvoiceType": 1,
+        "InvoiceSum": 7143.93,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "НКО ДомбайПром"
+      }
+    ],
+    "Id": 76388,
+    "User": 7444,
+    "CreatedAt": "2025-08-06T07:30:07.956Z",
+    "TotalSum": 7143.93
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Деревянный Сабо (услуга)",
+        "Price": 677.53,
+        "Quantity": 3,
+        "Sum": 2032.59,
+        "InvoiceType": 2,
+        "InvoiceSum": 2032.59,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОАО Самойлов"
+      }
+    ],
+    "Id": 82038,
+    "User": 7988,
+    "CreatedAt": "2025-07-23T19:12:07.326Z",
+    "TotalSum": 2032.59
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Стальной Кошелек",
+        "Price": 358.55,
+        "Quantity": 9,
+        "Sum": 3226.95,
+        "InvoiceType": 1,
+        "InvoiceSum": 3226.95,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "НКО Костин"
+      }
+    ],
+    "Id": 46606,
+    "User": 7136,
+    "CreatedAt": "2025-07-29T00:14:55.639Z",
+    "TotalSum": 3226.95
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Гранитный Кошелек (услуга)",
+        "Price": 118.84,
+        "Quantity": 5,
+        "Sum": 594.2,
+        "InvoiceType": 2,
+        "InvoiceSum": 594.2,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ОАО Аксенов"
+      },
+      {
+        "Name": "Невероятный Меховой Берет (услуга)",
+        "Price": 721.53,
+        "Quantity": 10,
+        "Sum": 7215.3,
+        "InvoiceType": 2,
+        "InvoiceSum": 7215.3,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "НКО ЧереповецТорг"
+      },
+      {
+        "Name": "Невероятный Гранитный Сабо (услуга)",
+        "Price": 681.86,
+        "Quantity": 4,
+        "Sum": 2727.44,
+        "InvoiceType": 2,
+        "InvoiceSum": 2727.44,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Олимпиада"
+      }
+    ],
+    "Id": 80116,
+    "User": 2100,
+    "CreatedAt": "2025-08-06T17:11:34.491Z",
+    "TotalSum": 10536.94
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Кожанный Ботинок (услуга)",
+        "Price": 753.09,
+        "Quantity": 10,
+        "Sum": 7530.9,
+        "InvoiceType": null,
+        "InvoiceSum": 7530.9,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ПАО СистемсСнабИнкорпорэйтед"
+      },
+      {
+        "Name": "Потрясающий Гранитный Компьютер (услуга)",
+        "Price": 403.87,
+        "Quantity": 2,
+        "Sum": 807.74,
+        "InvoiceType": null,
+        "InvoiceSum": 807.74,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Комаров"
+      },
+      {
+        "Name": "Потрясающий Натуральный Куртка (услуга)",
+        "Price": 704.44,
+        "Quantity": 4,
+        "Sum": 2817.76,
+        "InvoiceType": null,
+        "InvoiceSum": 2817.76,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "МУП Павловский ПосадСнабСнабСбыт"
+      },
+      {
+        "Name": "Эргономичный Пластиковый Носки (услуга)",
+        "Price": 446.73,
+        "Quantity": 4,
+        "Sum": 1786.92,
+        "InvoiceType": null,
+        "InvoiceSum": 1786.92,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "МУП Медведев"
+      }
+    ],
+    "Id": 60494,
+    "User": 8080,
+    "CreatedAt": "2025-08-13T22:06:07.374Z",
+    "TotalSum": 12943.32
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Неодимовый Берет (услуга)",
+        "Price": 76.7,
+        "Quantity": 8,
+        "Sum": 613.6,
+        "InvoiceType": 2,
+        "InvoiceSum": 613.6,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Майя"
+      }
+    ],
+    "Id": 70269,
+    "User": 8234,
+    "CreatedAt": "2025-07-22T04:13:54.705Z",
+    "TotalSum": 613.6
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Стальной Ремень",
+        "Price": 933.46,
+        "Quantity": 10,
+        "Sum": 9334.6,
+        "InvoiceType": null,
+        "InvoiceSum": 9334.6,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ЗАО РусИнкорпорэйтедСистемс"
+      },
+      {
+        "Name": "Фантастический Натуральный Плащ",
+        "Price": 738.41,
+        "Quantity": 2,
+        "Sum": 1476.82,
+        "InvoiceType": null,
+        "InvoiceSum": 1476.82,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "AO ТураСистемс"
+      },
+      {
+        "Name": "Фантастический Гранитный Стул",
+        "Price": 950.37,
+        "Quantity": 5,
+        "Sum": 4751.85,
+        "InvoiceType": null,
+        "InvoiceSum": 4751.85,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Вышеслав"
+      },
+      {
+        "Name": "Фантастический Натуральный Майка",
+        "Price": 216.02,
+        "Quantity": 1,
+        "Sum": 216.02,
+        "InvoiceType": null,
+        "InvoiceSum": 216.02,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ОП УчалыГруппРус"
+      },
+      {
+        "Name": "Эргономичный Меховой Свитер",
+        "Price": 952.89,
+        "Quantity": 7,
+        "Sum": 6670.23,
+        "InvoiceType": null,
+        "InvoiceSum": 6670.23,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ИП Варлаам"
+      }
+    ],
+    "Id": 97920,
+    "User": 6616,
+    "CreatedAt": "2025-08-09T10:02:50.241Z",
+    "TotalSum": 22449.52
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Пластиковый Стул",
+        "Price": 724.35,
+        "Quantity": 10,
+        "Sum": 7243.5,
+        "InvoiceType": 1,
+        "InvoiceSum": 7243.5,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ОП СбытСистемс"
+      }
+    ],
+    "Id": 48408,
+    "User": 5831,
+    "CreatedAt": "2025-07-21T20:56:20.767Z",
+    "TotalSum": 7243.5
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Неодимовый Сабо",
+        "Price": 731.41,
+        "Quantity": 2,
+        "Sum": 1462.82,
+        "InvoiceType": 1,
+        "InvoiceSum": 1462.82,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "МУП ГруппСистемсГрупп"
+      },
+      {
+        "Name": "Невероятный Пластиковый Носки",
+        "Price": 329.02,
+        "Quantity": 1,
+        "Sum": 329.02,
+        "InvoiceType": 1,
+        "InvoiceSum": 329.02,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ГУП МокшанГруппТрейд"
+      },
+      {
+        "Name": "Свободный Деревянный Кошелек",
+        "Price": 28.48,
+        "Quantity": 9,
+        "Sum": 256.32,
+        "InvoiceType": 1,
+        "InvoiceSum": 256.32,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "НКО СбытЛимитед"
+      },
+      {
+        "Name": "Потрясающий Бетонный Ножницы",
+        "Price": 803.94,
+        "Quantity": 9,
+        "Sum": 7235.46,
+        "InvoiceType": 1,
+        "InvoiceSum": 7235.46,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "НКО Мария"
+      }
+    ],
+    "Id": 71522,
+    "User": 3356,
+    "CreatedAt": "2025-07-25T05:26:14.274Z",
+    "TotalSum": 9283.62
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Меховой Куртка",
+        "Price": 112.39,
+        "Quantity": 6,
+        "Sum": 674.34,
+        "InvoiceType": null,
+        "InvoiceSum": 674.34,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ НеплюевкаРус"
+      },
+      {
+        "Name": "Интеллектуальный Неодимовый Берет",
+        "Price": 208.82,
+        "Quantity": 2,
+        "Sum": 417.64,
+        "InvoiceType": null,
+        "InvoiceSum": 417.64,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ФГУП РусПром"
+      },
+      {
+        "Name": "Эргономичный Меховой Берет",
+        "Price": 981.8,
+        "Quantity": 3,
+        "Sum": 2945.4,
+        "InvoiceType": null,
+        "InvoiceSum": 2945.4,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "ТСЖ МценскГрупп"
+      },
+      {
+        "Name": "Грубый Кожанный Кулон",
+        "Price": 749.4,
+        "Quantity": 4,
+        "Sum": 2997.6,
+        "InvoiceType": null,
+        "InvoiceSum": 2997.6,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "AO ДиксонПромИнкорпорэйтед"
+      }
+    ],
+    "Id": 18703,
+    "User": 3082,
+    "CreatedAt": "2025-07-30T19:32:50.078Z",
+    "TotalSum": 7034.98
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Кожанный Берет",
+        "Price": 205.47,
+        "Quantity": 6,
+        "Sum": 1232.82,
+        "InvoiceType": 1,
+        "InvoiceSum": 1232.82,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ПАО БуйнакскИнкорпорэйтед"
+      }
+    ],
+    "Id": 57785,
+    "User": 9502,
+    "CreatedAt": "2025-08-17T03:47:56.491Z",
+    "TotalSum": 1232.82
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Деревянный Сабо",
+        "Price": 42.79,
+        "Quantity": 1,
+        "Sum": 42.79,
+        "InvoiceType": 1,
+        "InvoiceSum": 42.79,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ОП Некрасов"
+      }
+    ],
+    "Id": 62882,
+    "User": 8203,
+    "CreatedAt": "2025-08-02T02:43:02.325Z",
+    "TotalSum": 42.79
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Неодимовый Ботинок (услуга)",
+        "Price": 190,
+        "Quantity": 1,
+        "Sum": 190,
+        "InvoiceType": 2,
+        "InvoiceSum": 190,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "МУП ИркутскПромТоргСистемс"
+      },
+      {
+        "Name": "Большой Хлопковый Стул (услуга)",
+        "Price": 271.83,
+        "Quantity": 10,
+        "Sum": 2718.3,
+        "InvoiceType": 2,
+        "InvoiceSum": 2718.3,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ФГУП ПоярковоРус"
+      },
+      {
+        "Name": "Фантастический Кожанный Шарф (услуга)",
+        "Price": 662.48,
+        "Quantity": 7,
+        "Sum": 4637.36,
+        "InvoiceType": 2,
+        "InvoiceSum": 4637.36,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "AO Нестор"
+      },
+      {
+        "Name": "Невероятный Стальной Кепка (услуга)",
+        "Price": 169.82,
+        "Quantity": 8,
+        "Sum": 1358.56,
+        "InvoiceType": 2,
+        "InvoiceSum": 1358.56,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ОАО АндреапольРусПромСбыт"
+      }
+    ],
+    "Id": 46475,
+    "User": 4469,
+    "CreatedAt": "2025-08-13T08:24:42.721Z",
+    "TotalSum": 8904.22
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Кожанный Ботинок (услуга)",
+        "Price": 258.89,
+        "Quantity": 1,
+        "Sum": 258.89,
+        "InvoiceType": 2,
+        "InvoiceSum": 258.89,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ПАО ГруппСнаб"
+      }
+    ],
+    "Id": 41911,
+    "User": 2816,
+    "CreatedAt": "2025-08-01T12:57:25.432Z",
+    "TotalSum": 258.89
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Кожанный Плащ",
+        "Price": 933.61,
+        "Quantity": 7,
+        "Sum": 6535.27,
+        "InvoiceType": 1,
+        "InvoiceSum": 6535.27,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ЗАО Юрьев-ПольскийГрупп"
+      }
+    ],
+    "Id": 73420,
+    "User": 1074,
+    "CreatedAt": "2025-07-28T23:14:26.067Z",
+    "TotalSum": 6535.27
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Резиновый Кепка (услуга)",
+        "Price": 142.44,
+        "Quantity": 3,
+        "Sum": 427.32,
+        "InvoiceType": null,
+        "InvoiceSum": 427.32,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Виктория"
+      },
+      {
+        "Name": "Эргономичный Натуральный Ножницы (услуга)",
+        "Price": 342.52,
+        "Quantity": 10,
+        "Sum": 3425.2,
+        "InvoiceType": null,
+        "InvoiceSum": 3425.2,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ПАО ТоргИнкорпорэйтедТорг"
+      },
+      {
+        "Name": "Великолепный Пластиковый Клатч (услуга)",
+        "Price": 248.65,
+        "Quantity": 3,
+        "Sum": 745.95,
+        "InvoiceType": null,
+        "InvoiceSum": 745.95,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ИП Любим"
+      },
+      {
+        "Name": "Практичный Стальной Майка (услуга)",
+        "Price": 965.96,
+        "Quantity": 5,
+        "Sum": 4829.8,
+        "InvoiceType": null,
+        "InvoiceSum": 4829.8,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ФГУП ГаличСбытСнаб"
+      }
+    ],
+    "Id": 45477,
+    "User": 4199,
+    "CreatedAt": "2025-08-09T00:24:52.388Z",
+    "TotalSum": 9428.27
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Гранитный Стол (услуга)",
+        "Price": 267.65,
+        "Quantity": 1,
+        "Sum": 267.65,
+        "InvoiceType": null,
+        "InvoiceSum": 267.65,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ПАО КудымкарСнабПромСбыт"
+      },
+      {
+        "Name": "Фантастический Кожанный Автомобиль (услуга)",
+        "Price": 681.26,
+        "Quantity": 7,
+        "Sum": 4768.82,
+        "InvoiceType": null,
+        "InvoiceSum": 4768.82,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ФГУП Евграф"
+      },
+      {
+        "Name": "Лоснящийся Кожанный Плащ (услуга)",
+        "Price": 495.13,
+        "Quantity": 3,
+        "Sum": 1485.39,
+        "InvoiceType": null,
+        "InvoiceSum": 1485.39,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ОАО Ия"
+      }
+    ],
+    "Id": 29860,
+    "User": 6369,
+    "CreatedAt": "2025-08-15T21:07:01.424Z",
+    "TotalSum": 6521.86
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Неодимовый Стол (услуга)",
+        "Price": 802.07,
+        "Quantity": 3,
+        "Sum": 2406.21,
+        "InvoiceType": 2,
+        "InvoiceSum": 2406.21,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Евгений"
+      },
+      {
+        "Name": "Большой Резиновый Шарф (услуга)",
+        "Price": 426.5,
+        "Quantity": 5,
+        "Sum": 2132.5,
+        "InvoiceType": 2,
+        "InvoiceSum": 2132.5,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ПАО ЕлабугаРусСнабТрейд"
+      }
+    ],
+    "Id": 74461,
+    "User": 8288,
+    "CreatedAt": "2025-08-01T11:17:09.820Z",
+    "TotalSum": 4538.71
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Неодимовый Стул (услуга)",
+        "Price": 471.03,
+        "Quantity": 7,
+        "Sum": 3297.21,
+        "InvoiceType": null,
+        "InvoiceSum": 3297.21,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ООО Сосьва (Хант.)СбытСистемс"
+      }
+    ],
+    "Id": 86394,
+    "User": 6205,
+    "CreatedAt": "2025-08-17T13:09:06.641Z",
+    "TotalSum": 3297.21
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Бетонный Берет",
+        "Price": 867.16,
+        "Quantity": 2,
+        "Sum": 1734.32,
+        "InvoiceType": 1,
+        "InvoiceSum": 1734.32,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ОП СистемсЛимитед"
+      },
+      {
+        "Name": "Потрясающий Пластиковый Кепка",
+        "Price": 549.77,
+        "Quantity": 8,
+        "Sum": 4398.16,
+        "InvoiceType": 1,
+        "InvoiceSum": 4398.16,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "МУП ИнкорпорэйтедЛимитед"
+      }
+    ],
+    "Id": 58676,
+    "User": 8676,
+    "CreatedAt": "2025-07-25T08:21:27.426Z",
+    "TotalSum": 6132.48
+  },
+  {
+    "Items": [
+      {
+        "Name": "Большой Натуральный Стул (услуга)",
+        "Price": 602.19,
+        "Quantity": 7,
+        "Sum": 4215.33,
+        "InvoiceType": null,
+        "InvoiceSum": 4215.33,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "AO КрасноуральскГрупп"
+      },
+      {
+        "Name": "Маленький Натуральный Кошелек (услуга)",
+        "Price": 904,
+        "Quantity": 2,
+        "Sum": 1808,
+        "InvoiceType": null,
+        "InvoiceSum": 1808,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Жданов"
+      },
+      {
+        "Name": "Практичный Гранитный Стул (услуга)",
+        "Price": 536.67,
+        "Quantity": 1,
+        "Sum": 536.67,
+        "InvoiceType": null,
+        "InvoiceSum": 536.67,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ООО РусПромГрупп"
+      },
+      {
+        "Name": "Потрясающий Меховой Сабо (услуга)",
+        "Price": 737.39,
+        "Quantity": 4,
+        "Sum": 2949.56,
+        "InvoiceType": null,
+        "InvoiceSum": 2949.56,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ГУП Кондратьев"
+      }
+    ],
+    "Id": 57450,
+    "User": 6813,
+    "CreatedAt": "2025-08-12T23:58:47.654Z",
+    "TotalSum": 9509.56
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Резиновый Кепка (услуга)",
+        "Price": 379.65,
+        "Quantity": 6,
+        "Sum": 2277.9,
+        "InvoiceType": null,
+        "InvoiceSum": 2277.9,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ОАО СистемсСнабСнаб"
+      }
+    ],
+    "Id": 32657,
+    "User": 8858,
+    "CreatedAt": "2025-07-27T15:54:04.370Z",
+    "TotalSum": 2277.9
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Деревянный Носки",
+        "Price": 57.76,
+        "Quantity": 4,
+        "Sum": 231.04,
+        "InvoiceType": 1,
+        "InvoiceSum": 231.04,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ИП Вера"
+      },
+      {
+        "Name": "Потрясающий Резиновый Клатч",
+        "Price": 832.32,
+        "Quantity": 9,
+        "Sum": 7490.88,
+        "InvoiceType": 1,
+        "InvoiceSum": 7490.88,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ИП КлинСбытСистемсГрупп"
+      },
+      {
+        "Name": "Маленький Кожанный Стол",
+        "Price": 856.23,
+        "Quantity": 10,
+        "Sum": 8562.3,
+        "InvoiceType": 1,
+        "InvoiceSum": 8562.3,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ЗАО АлданРусГрупп"
+      },
+      {
+        "Name": "Свободный Бетонный Ботинок",
+        "Price": 912.49,
+        "Quantity": 9,
+        "Sum": 8212.41,
+        "InvoiceType": 1,
+        "InvoiceSum": 8212.41,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ИП ДобрянкаРус"
+      },
+      {
+        "Name": "Великолепный Бетонный Ботинок",
+        "Price": 757.04,
+        "Quantity": 7,
+        "Sum": 5299.28,
+        "InvoiceType": 1,
+        "InvoiceSum": 5299.28,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "ОП КрасноуфимскРус"
+      }
+    ],
+    "Id": 98444,
+    "User": 7756,
+    "CreatedAt": "2025-07-22T17:39:17.993Z",
+    "TotalSum": 29795.91
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Меховой Куртка",
+        "Price": 798.17,
+        "Quantity": 2,
+        "Sum": 1596.34,
+        "InvoiceType": 1,
+        "InvoiceSum": 1596.34,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ООО Камень-на-ОбиСистемсСистемс"
+      },
+      {
+        "Name": "Большой Бетонный Носки",
+        "Price": 928.56,
+        "Quantity": 7,
+        "Sum": 6499.92,
+        "InvoiceType": 1,
+        "InvoiceSum": 6499.92,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Галактион"
+      },
+      {
+        "Name": "Потрясающий Стальной Свитер",
+        "Price": 532.79,
+        "Quantity": 4,
+        "Sum": 2131.16,
+        "InvoiceType": 1,
+        "InvoiceSum": 2131.16,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ИП ЛимитедРус"
+      },
+      {
+        "Name": "Эргономичный Деревянный Кошелек",
+        "Price": 455.85,
+        "Quantity": 1,
+        "Sum": 455.85,
+        "InvoiceType": 1,
+        "InvoiceSum": 455.85,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "МУП ТрейдСбытПром"
+      }
+    ],
+    "Id": 51255,
+    "User": 3918,
+    "CreatedAt": "2025-07-23T20:15:36.683Z",
+    "TotalSum": 10683.27
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Стальной Берет",
+        "Price": 262.46,
+        "Quantity": 10,
+        "Sum": 2624.6,
+        "InvoiceType": 1,
+        "InvoiceSum": 2624.6,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "AO ТрейдТрейдСнаб"
+      },
+      {
+        "Name": "Потрясающий Пластиковый Свитер",
+        "Price": 496.38,
+        "Quantity": 6,
+        "Sum": 2978.28,
+        "InvoiceType": 1,
+        "InvoiceSum": 2978.28,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ЗАО Тарко-СалеГруппСбыт"
+      },
+      {
+        "Name": "Великолепный Пластиковый Клатч",
+        "Price": 15.36,
+        "Quantity": 2,
+        "Sum": 30.72,
+        "InvoiceType": 1,
+        "InvoiceSum": 30.72,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "ИП Феоктист"
+      }
+    ],
+    "Id": 31426,
+    "User": 5073,
+    "CreatedAt": "2025-08-16T05:56:19.543Z",
+    "TotalSum": 5633.6
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Натуральный Стол",
+        "Price": 168.11,
+        "Quantity": 8,
+        "Sum": 1344.88,
+        "InvoiceType": 1,
+        "InvoiceSum": 1344.88,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "МУП Фокин"
+      },
+      {
+        "Name": "Практичный Хлопковый Берет",
+        "Price": 818.7,
+        "Quantity": 7,
+        "Sum": 5730.9,
+        "InvoiceType": 1,
+        "InvoiceSum": 5730.9,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ООО Кабанов"
+      }
+    ],
+    "Id": 86543,
+    "User": 6811,
+    "CreatedAt": "2025-08-16T12:15:04.180Z",
+    "TotalSum": 7075.78
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Бетонный Компьютер",
+        "Price": 563.44,
+        "Quantity": 1,
+        "Sum": 563.44,
+        "InvoiceType": null,
+        "InvoiceSum": 563.44,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ГУП ТымовскоеТрейд"
+      },
+      {
+        "Name": "Свободный Стальной Портмоне",
+        "Price": 213.44,
+        "Quantity": 4,
+        "Sum": 853.76,
+        "InvoiceType": null,
+        "InvoiceSum": 853.76,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ГУП Антонина"
+      },
+      {
+        "Name": "Свободный Кожанный Шарф",
+        "Price": 348.72,
+        "Quantity": 1,
+        "Sum": 348.72,
+        "InvoiceType": null,
+        "InvoiceSum": 348.72,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ФГУП СызраньТоргТорг"
+      },
+      {
+        "Name": "Фантастический Меховой Свитер",
+        "Price": 259.27,
+        "Quantity": 8,
+        "Sum": 2074.16,
+        "InvoiceType": null,
+        "InvoiceSum": 2074.16,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ООО Артем"
+      },
+      {
+        "Name": "Маленький Деревянный Свитер",
+        "Price": 606.42,
+        "Quantity": 3,
+        "Sum": 1819.26,
+        "InvoiceType": null,
+        "InvoiceSum": 1819.26,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ГУП ШумихаСбытТорг"
+      }
+    ],
+    "Id": 30816,
+    "User": 4769,
+    "CreatedAt": "2025-08-10T01:35:49.092Z",
+    "TotalSum": 5659.34
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Хлопковый Стул",
+        "Price": 539.24,
+        "Quantity": 7,
+        "Sum": 3774.68,
+        "InvoiceType": null,
+        "InvoiceSum": 3774.68,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ООО Лавр"
+      }
+    ],
+    "Id": 45156,
+    "User": 6683,
+    "CreatedAt": "2025-08-15T11:57:53.835Z",
+    "TotalSum": 3774.68
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Неодимовый Куртка",
+        "Price": 99.42,
+        "Quantity": 3,
+        "Sum": 298.26,
+        "InvoiceType": null,
+        "InvoiceSum": 298.26,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "AO ЗаводоуковскСистемсТрейд"
+      },
+      {
+        "Name": "Большой Натуральный Майка",
+        "Price": 212.42,
+        "Quantity": 6,
+        "Sum": 1274.52,
+        "InvoiceType": null,
+        "InvoiceSum": 1274.52,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "МУП КоломнаРусСбыт"
+      },
+      {
+        "Name": "Фантастический Меховой Ботинок",
+        "Price": 259.26,
+        "Quantity": 6,
+        "Sum": 1555.56,
+        "InvoiceType": null,
+        "InvoiceSum": 1555.56,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ООО Стрелков"
+      },
+      {
+        "Name": "Маленький Гранитный Берет",
+        "Price": 801.83,
+        "Quantity": 8,
+        "Sum": 6414.64,
+        "InvoiceType": null,
+        "InvoiceSum": 6414.64,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Воронов"
+      }
+    ],
+    "Id": 74147,
+    "User": 7487,
+    "CreatedAt": "2025-08-11T23:12:46.645Z",
+    "TotalSum": 9542.98
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Натуральный Плащ (услуга)",
+        "Price": 113.45,
+        "Quantity": 9,
+        "Sum": 1021.05,
+        "InvoiceType": null,
+        "InvoiceSum": 1021.05,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "НКО КоролевТрейдПромИнкорпорэйтед"
+      },
+      {
+        "Name": "Практичный Стальной Ножницы (услуга)",
+        "Price": 28.97,
+        "Quantity": 8,
+        "Sum": 231.76,
+        "InvoiceType": null,
+        "InvoiceSum": 231.76,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ГУП Захаров"
+      },
+      {
+        "Name": "Грубый Натуральный Кепка (услуга)",
+        "Price": 719.12,
+        "Quantity": 7,
+        "Sum": 5033.84,
+        "InvoiceType": null,
+        "InvoiceSum": 5033.84,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ПАО Дементьев"
+      },
+      {
+        "Name": "Фантастический Пластиковый Ремень (услуга)",
+        "Price": 554.13,
+        "Quantity": 9,
+        "Sum": 4987.17,
+        "InvoiceType": null,
+        "InvoiceSum": 4987.17,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ЗАО ЛимитедГрупп"
+      }
+    ],
+    "Id": 49096,
+    "User": 1874,
+    "CreatedAt": "2025-08-14T04:37:11.498Z",
+    "TotalSum": 11273.82
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Деревянный Кошелек (услуга)",
+        "Price": 136.4,
+        "Quantity": 6,
+        "Sum": 818.4,
+        "InvoiceType": null,
+        "InvoiceSum": 818.4,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ООО Фирс"
+      },
+      {
+        "Name": "Фантастический Деревянный Кепка (услуга)",
+        "Price": 29.98,
+        "Quantity": 1,
+        "Sum": 29.98,
+        "InvoiceType": null,
+        "InvoiceSum": 29.98,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ОАО Вера"
+      },
+      {
+        "Name": "Грубый Натуральный Ботинок (услуга)",
+        "Price": 617.74,
+        "Quantity": 7,
+        "Sum": 4324.18,
+        "InvoiceType": null,
+        "InvoiceSum": 4324.18,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ ТоргГрупп"
+      }
+    ],
+    "Id": 44251,
+    "User": 5131,
+    "CreatedAt": "2025-08-08T23:28:14.281Z",
+    "TotalSum": 5172.56
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Натуральный Берет",
+        "Price": 975.31,
+        "Quantity": 6,
+        "Sum": 5851.86,
+        "InvoiceType": 1,
+        "InvoiceSum": 5851.86,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "МУП СнабСнабПром"
+      },
+      {
+        "Name": "Фантастический Гранитный Сабо",
+        "Price": 919.9,
+        "Quantity": 2,
+        "Sum": 1839.8,
+        "InvoiceType": 1,
+        "InvoiceSum": 1839.8,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "НКО ГудермесТрейд"
+      },
+      {
+        "Name": "Грубый Меховой Берет",
+        "Price": 15.01,
+        "Quantity": 5,
+        "Sum": 75.05,
+        "InvoiceType": 1,
+        "InvoiceSum": 75.05,
+        "ProductType": 4,
+        "PaymentType": 2,
+        "Organization form": "ЗАО МиассСбытИнкорпорэйтед"
+      },
+      {
+        "Name": "Фантастический Неодимовый Куртка",
+        "Price": 575.6,
+        "Quantity": 8,
+        "Sum": 4604.8,
+        "InvoiceType": 1,
+        "InvoiceSum": 4604.8,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "AO Куликов"
+      },
+      {
+        "Name": "Интеллектуальный Резиновый Носки",
+        "Price": 444.52,
+        "Quantity": 2,
+        "Sum": 889.04,
+        "InvoiceType": 1,
+        "InvoiceSum": 889.04,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ООО Эмилия"
+      }
+    ],
+    "Id": 84210,
+    "User": 2527,
+    "CreatedAt": "2025-08-09T19:37:54.619Z",
+    "TotalSum": 13260.55
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Деревянный Компьютер",
+        "Price": 80.31,
+        "Quantity": 8,
+        "Sum": 642.48,
+        "InvoiceType": 1,
+        "InvoiceSum": 642.48,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "МУП Моисеев"
+      },
+      {
+        "Name": "Грубый Гранитный Шарф",
+        "Price": 151.77,
+        "Quantity": 6,
+        "Sum": 910.62,
+        "InvoiceType": 1,
+        "InvoiceSum": 910.62,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ГУП ВоскресенскИнкорпорэйтедИнкорпорэйтед"
+      },
+      {
+        "Name": "Большой Пластиковый Майка",
+        "Price": 640.11,
+        "Quantity": 9,
+        "Sum": 5760.99,
+        "InvoiceType": 1,
+        "InvoiceSum": 5760.99,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "МУП КарачаевскСнабСбытРус"
+      },
+      {
+        "Name": "Маленький Стальной Портмоне",
+        "Price": 69.68,
+        "Quantity": 9,
+        "Sum": 627.12,
+        "InvoiceType": 1,
+        "InvoiceSum": 627.12,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ОАО ЛимитедТрейд"
+      }
+    ],
+    "Id": 59678,
+    "User": 1803,
+    "CreatedAt": "2025-07-31T13:58:28.476Z",
+    "TotalSum": 7941.21
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Неодимовый Свитер",
+        "Price": 742.03,
+        "Quantity": 6,
+        "Sum": 4452.18,
+        "InvoiceType": null,
+        "InvoiceSum": 4452.18,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ОАО ПромПром"
+      },
+      {
+        "Name": "Свободный Натуральный Ремень",
+        "Price": 496.62,
+        "Quantity": 10,
+        "Sum": 4966.2,
+        "InvoiceType": null,
+        "InvoiceSum": 4966.2,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ ПрохладныйПромСбыт"
+      },
+      {
+        "Name": "Фантастический Меховой Свитер",
+        "Price": 633.64,
+        "Quantity": 6,
+        "Sum": 3801.84,
+        "InvoiceType": null,
+        "InvoiceSum": 3801.84,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Октябрина"
+      }
+    ],
+    "Id": 71099,
+    "User": 9654,
+    "CreatedAt": "2025-07-26T11:16:10.601Z",
+    "TotalSum": 13220.22
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Резиновый Портмоне (услуга)",
+        "Price": 469.54,
+        "Quantity": 9,
+        "Sum": 4225.86,
+        "InvoiceType": null,
+        "InvoiceSum": 4225.86,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОАО ЧеховРусЛимитедСбыт"
+      },
+      {
+        "Name": "Большой Меховой Носки (услуга)",
+        "Price": 966.1,
+        "Quantity": 7,
+        "Sum": 6762.7,
+        "InvoiceType": null,
+        "InvoiceSum": 6762.7,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "AO КалязинТоргТорг"
+      },
+      {
+        "Name": "Свободный Натуральный Куртка (услуга)",
+        "Price": 356.22,
+        "Quantity": 9,
+        "Sum": 3205.98,
+        "InvoiceType": null,
+        "InvoiceSum": 3205.98,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ИП РусПром"
+      },
+      {
+        "Name": "Маленький Хлопковый Кошелек (услуга)",
+        "Price": 763.27,
+        "Quantity": 5,
+        "Sum": 3816.35,
+        "InvoiceType": null,
+        "InvoiceSum": 3816.35,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ГУП НазраньЛимитед"
+      },
+      {
+        "Name": "Потрясающий Меховой Стол (услуга)",
+        "Price": 747.74,
+        "Quantity": 2,
+        "Sum": 1495.48,
+        "InvoiceType": null,
+        "InvoiceSum": 1495.48,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ГУП Евпраксия"
+      }
+    ],
+    "Id": 75142,
+    "User": 2751,
+    "CreatedAt": "2025-08-11T06:06:51.426Z",
+    "TotalSum": 19506.37
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Кожанный Кошелек (услуга)",
+        "Price": 730.28,
+        "Quantity": 8,
+        "Sum": 5842.24,
+        "InvoiceType": 2,
+        "InvoiceSum": 5842.24,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "МУП ЛимитедСнабЛимитед"
+      },
+      {
+        "Name": "Потрясающий Резиновый Ботинок (услуга)",
+        "Price": 853.51,
+        "Quantity": 3,
+        "Sum": 2560.53,
+        "InvoiceType": 2,
+        "InvoiceSum": 2560.53,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ОП ТоргГрупп"
+      }
+    ],
+    "Id": 63953,
+    "User": 1828,
+    "CreatedAt": "2025-08-06T01:10:13.243Z",
+    "TotalSum": 8402.77
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Меховой Ботинок (услуга)",
+        "Price": 938.69,
+        "Quantity": 10,
+        "Sum": 9386.9,
+        "InvoiceType": null,
+        "InvoiceSum": 9386.9,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ Таисия"
+      },
+      {
+        "Name": "Эргономичный Кожанный Кепка (услуга)",
+        "Price": 192.24,
+        "Quantity": 7,
+        "Sum": 1345.68,
+        "InvoiceType": null,
+        "InvoiceSum": 1345.68,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ФГУП ИнкорпорэйтедРусГрупп"
+      }
+    ],
+    "Id": 67749,
+    "User": 2736,
+    "CreatedAt": "2025-08-12T16:01:15.679Z",
+    "TotalSum": 10732.58
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Пластиковый Стол",
+        "Price": 67.19,
+        "Quantity": 5,
+        "Sum": 335.95,
+        "InvoiceType": 1,
+        "InvoiceSum": 335.95,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ЗАО ПромСнаб"
+      }
+    ],
+    "Id": 71440,
+    "User": 5886,
+    "CreatedAt": "2025-08-07T00:03:32.692Z",
+    "TotalSum": 335.95
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Резиновый Плащ",
+        "Price": 638.44,
+        "Quantity": 6,
+        "Sum": 3830.64,
+        "InvoiceType": 1,
+        "InvoiceSum": 3830.64,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "МУП ОленекСистемс"
+      },
+      {
+        "Name": "Потрясающий Стальной Стол",
+        "Price": 391.45,
+        "Quantity": 9,
+        "Sum": 3523.05,
+        "InvoiceType": 1,
+        "InvoiceSum": 3523.05,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ Иванна"
+      },
+      {
+        "Name": "Большой Неодимовый Сабо",
+        "Price": 125.95,
+        "Quantity": 2,
+        "Sum": 251.9,
+        "InvoiceType": 1,
+        "InvoiceSum": 251.9,
+        "ProductType": 1,
+        "PaymentType": 3,
+        "Organization form": "ГУП ЕкатеринбургПромТорг"
+      },
+      {
+        "Name": "Потрясающий Гранитный Ремень",
+        "Price": 312.73,
+        "Quantity": 6,
+        "Sum": 1876.38,
+        "InvoiceType": 1,
+        "InvoiceSum": 1876.38,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ ЛимитедЛимитед"
+      },
+      {
+        "Name": "Невероятный Резиновый Компьютер",
+        "Price": 386.82,
+        "Quantity": 10,
+        "Sum": 3868.2,
+        "InvoiceType": 1,
+        "InvoiceSum": 3868.2,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ОП Хохлов"
+      }
+    ],
+    "Id": 27058,
+    "User": 5493,
+    "CreatedAt": "2025-07-20T21:37:44.620Z",
+    "TotalSum": 13350.17
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Резиновый Майка (услуга)",
+        "Price": 358.22,
+        "Quantity": 5,
+        "Sum": 1791.1,
+        "InvoiceType": 2,
+        "InvoiceSum": 1791.1,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ИП РусСнаб"
+      },
+      {
+        "Name": "Свободный Кожанный Компьютер (услуга)",
+        "Price": 440.28,
+        "Quantity": 6,
+        "Sum": 2641.68,
+        "InvoiceType": 2,
+        "InvoiceSum": 2641.68,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ГУП СнабЛимитедГрупп"
+      },
+      {
+        "Name": "Потрясающий Натуральный Свитер (услуга)",
+        "Price": 29.29,
+        "Quantity": 10,
+        "Sum": 292.9,
+        "InvoiceType": 2,
+        "InvoiceSum": 292.9,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "AO ПромТрейд"
+      }
+    ],
+    "Id": 32474,
+    "User": 6451,
+    "CreatedAt": "2025-07-26T01:01:56.287Z",
+    "TotalSum": 4725.68
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Хлопковый Ремень",
+        "Price": 503,
+        "Quantity": 6,
+        "Sum": 3018,
+        "InvoiceType": null,
+        "InvoiceSum": 3018,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "AO Элеонора"
+      }
+    ],
+    "Id": 40996,
+    "User": 6283,
+    "CreatedAt": "2025-08-15T07:11:02.896Z",
+    "TotalSum": 3018
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Кожанный Берет",
+        "Price": 745.92,
+        "Quantity": 5,
+        "Sum": 3729.6,
+        "InvoiceType": 1,
+        "InvoiceSum": 3729.6,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "НКО Уваров"
+      },
+      {
+        "Name": "Свободный Пластиковый Ботинок",
+        "Price": 378.14,
+        "Quantity": 5,
+        "Sum": 1890.7,
+        "InvoiceType": 1,
+        "InvoiceSum": 1890.7,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Глеб"
+      },
+      {
+        "Name": "Интеллектуальный Деревянный Ремень",
+        "Price": 927.6,
+        "Quantity": 9,
+        "Sum": 8348.4,
+        "InvoiceType": 1,
+        "InvoiceSum": 8348.4,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ПАО Тимур"
+      },
+      {
+        "Name": "Интеллектуальный Хлопковый Ремень",
+        "Price": 220.28,
+        "Quantity": 3,
+        "Sum": 660.84,
+        "InvoiceType": 1,
+        "InvoiceSum": 660.84,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "МУП ТрейдЛимитедРус"
+      },
+      {
+        "Name": "Великолепный Бетонный Автомобиль",
+        "Price": 181.74,
+        "Quantity": 8,
+        "Sum": 1453.92,
+        "InvoiceType": 1,
+        "InvoiceSum": 1453.92,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "МУП Феоктист"
+      }
+    ],
+    "Id": 52337,
+    "User": 1894,
+    "CreatedAt": "2025-07-24T20:27:51.370Z",
+    "TotalSum": 16083.46
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Бетонный Ремень",
+        "Price": 575.16,
+        "Quantity": 9,
+        "Sum": 5176.44,
+        "InvoiceType": 1,
+        "InvoiceSum": 5176.44,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "НКО СистемсЛимитедТорг"
+      }
+    ],
+    "Id": 13985,
+    "User": 8279,
+    "CreatedAt": "2025-08-02T01:34:20.848Z",
+    "TotalSum": 5176.44
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Кожанный Свитер",
+        "Price": 333.09,
+        "Quantity": 1,
+        "Sum": 333.09,
+        "InvoiceType": 1,
+        "InvoiceSum": 333.09,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ГУП РусСнаб"
+      },
+      {
+        "Name": "Эргономичный Деревянный Клатч",
+        "Price": 984.16,
+        "Quantity": 8,
+        "Sum": 7873.28,
+        "InvoiceType": 1,
+        "InvoiceSum": 7873.28,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ОП СковородиноИнкорпорэйтед"
+      },
+      {
+        "Name": "Большой Меховой Стол",
+        "Price": 793.54,
+        "Quantity": 1,
+        "Sum": 793.54,
+        "InvoiceType": 1,
+        "InvoiceSum": 793.54,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "ОП Олимпий"
+      }
+    ],
+    "Id": 90520,
+    "User": 7338,
+    "CreatedAt": "2025-08-18T03:22:39.558Z",
+    "TotalSum": 8999.91
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Стальной Свитер",
+        "Price": 656.1,
+        "Quantity": 9,
+        "Sum": 5904.9,
+        "InvoiceType": 1,
+        "InvoiceSum": 5904.9,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ЗАО Еремей"
+      },
+      {
+        "Name": "Фантастический Хлопковый Стул",
+        "Price": 539.02,
+        "Quantity": 6,
+        "Sum": 3234.12,
+        "InvoiceType": 1,
+        "InvoiceSum": 3234.12,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "НКО БелокурихаПромПром"
+      },
+      {
+        "Name": "Невероятный Хлопковый Стул",
+        "Price": 477.76,
+        "Quantity": 2,
+        "Sum": 955.52,
+        "InvoiceType": 1,
+        "InvoiceSum": 955.52,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ОП ИнкорпорэйтедГрупп"
+      },
+      {
+        "Name": "Грубый Гранитный Майка",
+        "Price": 67.45,
+        "Quantity": 5,
+        "Sum": 337.25,
+        "InvoiceType": 1,
+        "InvoiceSum": 337.25,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ ДжейрахГрупп"
+      }
+    ],
+    "Id": 37019,
+    "User": 1983,
+    "CreatedAt": "2025-08-04T14:50:23.354Z",
+    "TotalSum": 10431.79
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Неодимовый Портмоне (услуга)",
+        "Price": 937.54,
+        "Quantity": 8,
+        "Sum": 7500.32,
+        "InvoiceType": null,
+        "InvoiceSum": 7500.32,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ИП Анна"
+      },
+      {
+        "Name": "Великолепный Гранитный Портмоне (услуга)",
+        "Price": 314.01,
+        "Quantity": 2,
+        "Sum": 628.02,
+        "InvoiceType": null,
+        "InvoiceSum": 628.02,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ ВендингаРусСнаб"
+      },
+      {
+        "Name": "Практичный Натуральный Стул (услуга)",
+        "Price": 259.85,
+        "Quantity": 3,
+        "Sum": 779.55,
+        "InvoiceType": null,
+        "InvoiceSum": 779.55,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "ИП Носков"
+      },
+      {
+        "Name": "Потрясающий Резиновый Кепка (услуга)",
+        "Price": 795.48,
+        "Quantity": 6,
+        "Sum": 4772.88,
+        "InvoiceType": null,
+        "InvoiceSum": 4772.88,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ООО Варвара"
+      },
+      {
+        "Name": "Грубый Натуральный Компьютер (услуга)",
+        "Price": 337.07,
+        "Quantity": 3,
+        "Sum": 1011.21,
+        "InvoiceType": null,
+        "InvoiceSum": 1011.21,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "НКО Васильев"
+      }
+    ],
+    "Id": 59754,
+    "User": 9487,
+    "CreatedAt": "2025-08-08T06:49:54.275Z",
+    "TotalSum": 14691.98
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Гранитный Автомобиль (услуга)",
+        "Price": 478.73,
+        "Quantity": 2,
+        "Sum": 957.46,
+        "InvoiceType": null,
+        "InvoiceSum": 957.46,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Нонна"
+      },
+      {
+        "Name": "Грубый Деревянный Носки (услуга)",
+        "Price": 67.34,
+        "Quantity": 1,
+        "Sum": 67.34,
+        "InvoiceType": null,
+        "InvoiceSum": 67.34,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ОАО ИнкорпорэйтедРусСнаб"
+      },
+      {
+        "Name": "Интеллектуальный Кожанный Кепка (услуга)",
+        "Price": 555.82,
+        "Quantity": 2,
+        "Sum": 1111.64,
+        "InvoiceType": null,
+        "InvoiceSum": 1111.64,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ИП ПромРус"
+      },
+      {
+        "Name": "Большой Неодимовый Компьютер (услуга)",
+        "Price": 805.45,
+        "Quantity": 5,
+        "Sum": 4027.25,
+        "InvoiceType": null,
+        "InvoiceSum": 4027.25,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ГУП СистемсСнаб"
+      },
+      {
+        "Name": "Интеллектуальный Натуральный Клатч (услуга)",
+        "Price": 764.19,
+        "Quantity": 7,
+        "Sum": 5349.33,
+        "InvoiceType": null,
+        "InvoiceSum": 5349.33,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "НКО Лора"
+      }
+    ],
+    "Id": 17919,
+    "User": 4495,
+    "CreatedAt": "2025-07-21T20:57:57.650Z",
+    "TotalSum": 11513.02
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Стальной Плащ",
+        "Price": 846.13,
+        "Quantity": 9,
+        "Sum": 7615.17,
+        "InvoiceType": null,
+        "InvoiceSum": 7615.17,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ООО НальчикТоргСбыт"
+      },
+      {
+        "Name": "Лоснящийся Натуральный Компьютер",
+        "Price": 826.98,
+        "Quantity": 6,
+        "Sum": 4961.88,
+        "InvoiceType": null,
+        "InvoiceSum": 4961.88,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "НКО Максимильян"
+      },
+      {
+        "Name": "Маленький Хлопковый Стул",
+        "Price": 980.64,
+        "Quantity": 9,
+        "Sum": 8825.76,
+        "InvoiceType": null,
+        "InvoiceSum": 8825.76,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ФГУП ШенкурскТоргСистемс"
+      },
+      {
+        "Name": "Свободный Деревянный Шарф",
+        "Price": 46.93,
+        "Quantity": 4,
+        "Sum": 187.72,
+        "InvoiceType": null,
+        "InvoiceSum": 187.72,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "НКО ЕйскТрейд"
+      }
+    ],
+    "Id": 38338,
+    "User": 4158,
+    "CreatedAt": "2025-07-28T15:57:16.141Z",
+    "TotalSum": 21590.53
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Меховой Компьютер",
+        "Price": 416.04,
+        "Quantity": 3,
+        "Sum": 1248.12,
+        "InvoiceType": null,
+        "InvoiceSum": 1248.12,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "ГУП НовомосковскСистемс"
+      },
+      {
+        "Name": "Практичный Деревянный Стул",
+        "Price": 757.34,
+        "Quantity": 5,
+        "Sum": 3786.7,
+        "InvoiceType": null,
+        "InvoiceSum": 3786.7,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ТСЖ ПромИнкорпорэйтед"
+      },
+      {
+        "Name": "Интеллектуальный Пластиковый Свитер",
+        "Price": 528.99,
+        "Quantity": 8,
+        "Sum": 4231.92,
+        "InvoiceType": null,
+        "InvoiceSum": 4231.92,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "НКО ПлесецкСистемсЛимитед"
+      },
+      {
+        "Name": "Практичный Бетонный Кепка",
+        "Price": 716.26,
+        "Quantity": 2,
+        "Sum": 1432.52,
+        "InvoiceType": null,
+        "InvoiceSum": 1432.52,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "AO ТрейдРус"
+      }
+    ],
+    "Id": 47157,
+    "User": 3058,
+    "CreatedAt": "2025-08-09T15:12:09.775Z",
+    "TotalSum": 10699.26
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Кожанный Стул (услуга)",
+        "Price": 33.4,
+        "Quantity": 4,
+        "Sum": 133.6,
+        "InvoiceType": null,
+        "InvoiceSum": 133.6,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "ОАО ЛьговГруппРус"
+      }
+    ],
+    "Id": 85362,
+    "User": 6679,
+    "CreatedAt": "2025-08-12T04:52:16.437Z",
+    "TotalSum": 133.6
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Резиновый Автомобиль",
+        "Price": 721.83,
+        "Quantity": 2,
+        "Sum": 1443.66,
+        "InvoiceType": 1,
+        "InvoiceSum": 1443.66,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ОАО Новгород ВеликийЛимитедИнкорпорэйтед"
+      },
+      {
+        "Name": "Грубый Кожанный Плащ",
+        "Price": 264.38,
+        "Quantity": 8,
+        "Sum": 2115.04,
+        "InvoiceType": 1,
+        "InvoiceSum": 2115.04,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ИП Троицк (Моск.)Групп"
+      },
+      {
+        "Name": "Маленький Кожанный Кепка",
+        "Price": 893.21,
+        "Quantity": 3,
+        "Sum": 2679.63,
+        "InvoiceType": 1,
+        "InvoiceSum": 2679.63,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ТСЖ ЧеремховоСбытПром"
+      },
+      {
+        "Name": "Большой Стальной Свитер",
+        "Price": 67.88,
+        "Quantity": 2,
+        "Sum": 135.76,
+        "InvoiceType": 1,
+        "InvoiceSum": 135.76,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "НКО ИгнашиноРус"
+      }
+    ],
+    "Id": 80938,
+    "User": 8143,
+    "CreatedAt": "2025-08-17T18:54:47.509Z",
+    "TotalSum": 6374.09
+  },
+  {
+    "Items": [
+      {
+        "Name": "Потрясающий Пластиковый Клатч",
+        "Price": 695.39,
+        "Quantity": 1,
+        "Sum": 695.39,
+        "InvoiceType": null,
+        "InvoiceSum": 695.39,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "МУП СнежинскСбытПром"
+      },
+      {
+        "Name": "Маленький Стальной Клатч",
+        "Price": 734.97,
+        "Quantity": 1,
+        "Sum": 734.97,
+        "InvoiceType": null,
+        "InvoiceSum": 734.97,
+        "ProductType": 6,
+        "PaymentType": 3,
+        "Organization form": "МУП ИнкорпорэйтедГрупп"
+      }
+    ],
+    "Id": 61628,
+    "User": 8651,
+    "CreatedAt": "2025-08-08T18:33:30.808Z",
+    "TotalSum": 1430.36
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Стальной Куртка (услуга)",
+        "Price": 624.02,
+        "Quantity": 3,
+        "Sum": 1872.06,
+        "InvoiceType": 2,
+        "InvoiceSum": 1872.06,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ООО СнабГрупп"
+      },
+      {
+        "Name": "Великолепный Гранитный Ремень (услуга)",
+        "Price": 383.29,
+        "Quantity": 7,
+        "Sum": 2683.03,
+        "InvoiceType": 2,
+        "InvoiceSum": 2683.03,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ Азарий"
+      }
+    ],
+    "Id": 57854,
+    "User": 4436,
+    "CreatedAt": "2025-07-23T19:26:22.401Z",
+    "TotalSum": 4555.09
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Неодимовый Свитер",
+        "Price": 238.01,
+        "Quantity": 7,
+        "Sum": 1666.07,
+        "InvoiceType": 1,
+        "InvoiceSum": 1666.07,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ИП ИзбербашСистемс"
+      },
+      {
+        "Name": "Фантастический Натуральный Куртка",
+        "Price": 645.64,
+        "Quantity": 3,
+        "Sum": 1936.92,
+        "InvoiceType": 1,
+        "InvoiceSum": 1936.92,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ГУП ПензаПромСнабПром"
+      }
+    ],
+    "Id": 97522,
+    "User": 9208,
+    "CreatedAt": "2025-08-16T07:13:29.774Z",
+    "TotalSum": 3602.99
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Натуральный Ботинок",
+        "Price": 388.76,
+        "Quantity": 10,
+        "Sum": 3887.6,
+        "InvoiceType": null,
+        "InvoiceSum": 3887.6,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ПАО СемлячикиРус"
+      },
+      {
+        "Name": "Грубый Бетонный Портмоне",
+        "Price": 900.15,
+        "Quantity": 5,
+        "Sum": 4500.75,
+        "InvoiceType": null,
+        "InvoiceSum": 4500.75,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "AO Ангелина"
+      }
+    ],
+    "Id": 96304,
+    "User": 8079,
+    "CreatedAt": "2025-08-08T09:37:45.744Z",
+    "TotalSum": 8388.35
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Неодимовый Автомобиль (услуга)",
+        "Price": 707.32,
+        "Quantity": 2,
+        "Sum": 1414.64,
+        "InvoiceType": null,
+        "InvoiceSum": 1414.64,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "МУП Леонтий"
+      },
+      {
+        "Name": "Практичный Стальной Плащ (услуга)",
+        "Price": 250.33,
+        "Quantity": 8,
+        "Sum": 2002.64,
+        "InvoiceType": null,
+        "InvoiceSum": 2002.64,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "НКО ЭнгельсСнаб"
+      },
+      {
+        "Name": "Маленький Натуральный Берет (услуга)",
+        "Price": 903.61,
+        "Quantity": 10,
+        "Sum": 9036.1,
+        "InvoiceType": null,
+        "InvoiceSum": 9036.1,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "AO ИнкорпорэйтедТорг"
+      }
+    ],
+    "Id": 64202,
+    "User": 5747,
+    "CreatedAt": "2025-08-17T14:04:25.667Z",
+    "TotalSum": 12453.38
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Пластиковый Свитер (услуга)",
+        "Price": 450.8,
+        "Quantity": 10,
+        "Sum": 4508,
+        "InvoiceType": 2,
+        "InvoiceSum": 4508,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "ООО СеверодвинскСистемс"
+      },
+      {
+        "Name": "Фантастический Хлопковый Стол (услуга)",
+        "Price": 423.86,
+        "Quantity": 2,
+        "Sum": 847.72,
+        "InvoiceType": 2,
+        "InvoiceSum": 847.72,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОП КачканарПромТорг"
+      },
+      {
+        "Name": "Свободный Бетонный Автомобиль (услуга)",
+        "Price": 677.99,
+        "Quantity": 6,
+        "Sum": 4067.94,
+        "InvoiceType": 2,
+        "InvoiceSum": 4067.94,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ОП Орлов"
+      },
+      {
+        "Name": "Потрясающий Хлопковый Ботинок (услуга)",
+        "Price": 763.16,
+        "Quantity": 4,
+        "Sum": 3052.64,
+        "InvoiceType": 2,
+        "InvoiceSum": 3052.64,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ГУП Корнилов"
+      },
+      {
+        "Name": "Потрясающий Меховой Ножницы (услуга)",
+        "Price": 102.05,
+        "Quantity": 6,
+        "Sum": 612.3,
+        "InvoiceType": 2,
+        "InvoiceSum": 612.3,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ Алла"
+      }
+    ],
+    "Id": 37436,
+    "User": 3432,
+    "CreatedAt": "2025-07-26T07:10:51.250Z",
+    "TotalSum": 13088.6
+  },
+  {
+    "Items": [
+      {
+        "Name": "Большой Пластиковый Ботинок (услуга)",
+        "Price": 599.76,
+        "Quantity": 5,
+        "Sum": 2998.8,
+        "InvoiceType": 2,
+        "InvoiceSum": 2998.8,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ОАО АргаяшРус"
+      },
+      {
+        "Name": "Потрясающий Меховой Плащ (услуга)",
+        "Price": 282.71,
+        "Quantity": 2,
+        "Sum": 565.42,
+        "InvoiceType": 2,
+        "InvoiceSum": 565.42,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "МУП Шилов"
+      },
+      {
+        "Name": "Фантастический Кожанный Сабо (услуга)",
+        "Price": 818.9,
+        "Quantity": 8,
+        "Sum": 6551.2,
+        "InvoiceType": 2,
+        "InvoiceSum": 6551.2,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ООО Амвросий"
+      },
+      {
+        "Name": "Грубый Натуральный Кепка (услуга)",
+        "Price": 767.7,
+        "Quantity": 5,
+        "Sum": 3838.5,
+        "InvoiceType": 2,
+        "InvoiceSum": 3838.5,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ГУП ТиксиРусСистемс"
+      }
+    ],
+    "Id": 26122,
+    "User": 9101,
+    "CreatedAt": "2025-07-22T16:55:20.679Z",
+    "TotalSum": 13953.92
+  },
+  {
+    "Items": [
+      {
+        "Name": "Большой Резиновый Берет (услуга)",
+        "Price": 933.47,
+        "Quantity": 7,
+        "Sum": 6534.29,
+        "InvoiceType": 2,
+        "InvoiceSum": 6534.29,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ФГУП Большаков"
+      },
+      {
+        "Name": "Невероятный Бетонный Ножницы (услуга)",
+        "Price": 89.59,
+        "Quantity": 10,
+        "Sum": 895.9,
+        "InvoiceType": 2,
+        "InvoiceSum": 895.9,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ПАО ВуктылТоргГруппПром"
+      },
+      {
+        "Name": "Свободный Меховой Стул (услуга)",
+        "Price": 678.06,
+        "Quantity": 7,
+        "Sum": 4746.42,
+        "InvoiceType": 2,
+        "InvoiceSum": 4746.42,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ОАО Святополк"
+      },
+      {
+        "Name": "Фантастический Резиновый Майка (услуга)",
+        "Price": 190.41,
+        "Quantity": 2,
+        "Sum": 380.82,
+        "InvoiceType": 2,
+        "InvoiceSum": 380.82,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ОАО ТимашевскИнкорпорэйтед"
+      },
+      {
+        "Name": "Большой Деревянный Плащ (услуга)",
+        "Price": 598.1,
+        "Quantity": 9,
+        "Sum": 5382.9,
+        "InvoiceType": 2,
+        "InvoiceSum": 5382.9,
+        "ProductType": 5,
+        "PaymentType": 2,
+        "Organization form": "ООО СбытТрейдСистемс"
+      }
+    ],
+    "Id": 76355,
+    "User": 4384,
+    "CreatedAt": "2025-08-02T19:02:13.014Z",
+    "TotalSum": 17940.33
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Меховой Майка",
+        "Price": 748.38,
+        "Quantity": 7,
+        "Sum": 5238.66,
+        "InvoiceType": 1,
+        "InvoiceSum": 5238.66,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "НКО Всемил"
+      },
+      {
+        "Name": "Практичный Деревянный Шарф",
+        "Price": 964.5,
+        "Quantity": 2,
+        "Sum": 1929,
+        "InvoiceType": 1,
+        "InvoiceSum": 1929,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ИП Зоя"
+      },
+      {
+        "Name": "Большой Меховой Плащ",
+        "Price": 269.2,
+        "Quantity": 7,
+        "Sum": 1884.4,
+        "InvoiceType": 1,
+        "InvoiceSum": 1884.4,
+        "ProductType": 10,
+        "PaymentType": 2,
+        "Organization form": "НКО Святослав"
+      },
+      {
+        "Name": "Потрясающий Натуральный Кошелек",
+        "Price": 263.59,
+        "Quantity": 9,
+        "Sum": 2372.31,
+        "InvoiceType": 1,
+        "InvoiceSum": 2372.31,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ Усть-КалманкаТрейдСнаб"
+      },
+      {
+        "Name": "Эргономичный Меховой Портмоне",
+        "Price": 491.05,
+        "Quantity": 1,
+        "Sum": 491.05,
+        "InvoiceType": 1,
+        "InvoiceSum": 491.05,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ПАО Викторин"
+      }
+    ],
+    "Id": 16438,
+    "User": 1105,
+    "CreatedAt": "2025-07-31T03:44:25.731Z",
+    "TotalSum": 11915.42
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Стальной Носки",
+        "Price": 151.51,
+        "Quantity": 5,
+        "Sum": 757.55,
+        "InvoiceType": null,
+        "InvoiceSum": 757.55,
+        "ProductType": 1,
+        "PaymentType": 2,
+        "Organization form": "ФГУП Герасимов"
+      },
+      {
+        "Name": "Большой Пластиковый Стул",
+        "Price": 667.89,
+        "Quantity": 4,
+        "Sum": 2671.56,
+        "InvoiceType": null,
+        "InvoiceSum": 2671.56,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ОП Колесников"
+      },
+      {
+        "Name": "Большой Деревянный Ботинок",
+        "Price": 490.84,
+        "Quantity": 3,
+        "Sum": 1472.52,
+        "InvoiceType": null,
+        "InvoiceSum": 1472.52,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ООО ТоргСнаб"
+      },
+      {
+        "Name": "Интеллектуальный Бетонный Свитер",
+        "Price": 535.51,
+        "Quantity": 1,
+        "Sum": 535.51,
+        "InvoiceType": null,
+        "InvoiceSum": 535.51,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ГУП Кузьмин"
+      }
+    ],
+    "Id": 67156,
+    "User": 6491,
+    "CreatedAt": "2025-07-24T01:13:59.824Z",
+    "TotalSum": 5437.14
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Неодимовый Кепка (услуга)",
+        "Price": 417.83,
+        "Quantity": 6,
+        "Sum": 2506.98,
+        "InvoiceType": 2,
+        "InvoiceSum": 2506.98,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ИП ТобольскИнкорпорэйтедГруппГрупп"
+      }
+    ],
+    "Id": 28662,
+    "User": 4844,
+    "CreatedAt": "2025-08-18T01:13:58.242Z",
+    "TotalSum": 2506.98
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Кожанный Кошелек (услуга)",
+        "Price": 47.58,
+        "Quantity": 2,
+        "Sum": 95.16,
+        "InvoiceType": 2,
+        "InvoiceSum": 95.16,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ СызраньИнкорпорэйтедГрупп"
+      }
+    ],
+    "Id": 52484,
+    "User": 6733,
+    "CreatedAt": "2025-08-11T00:40:20.183Z",
+    "TotalSum": 95.16
+  },
+  {
+    "Items": [
+      {
+        "Name": "Интеллектуальный Бетонный Плащ",
+        "Price": 120.51,
+        "Quantity": 5,
+        "Sum": 602.55,
+        "InvoiceType": 1,
+        "InvoiceSum": 602.55,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ООО КотласИнкорпорэйтедГрупп"
+      },
+      {
+        "Name": "Эргономичный Деревянный Кулон",
+        "Price": 207.76,
+        "Quantity": 7,
+        "Sum": 1454.32,
+        "InvoiceType": 1,
+        "InvoiceSum": 1454.32,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "МУП КамышловТоргТоргСнаб"
+      },
+      {
+        "Name": "Грубый Натуральный Ботинок",
+        "Price": 501.84,
+        "Quantity": 9,
+        "Sum": 4516.56,
+        "InvoiceType": 1,
+        "InvoiceSum": 4516.56,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "ООО Доброслав"
+      }
+    ],
+    "Id": 87391,
+    "User": 1828,
+    "CreatedAt": "2025-08-01T14:51:35.596Z",
+    "TotalSum": 6573.43
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Деревянный Майка",
+        "Price": 197.72,
+        "Quantity": 3,
+        "Sum": 593.16,
+        "InvoiceType": null,
+        "InvoiceSum": 593.16,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ОАО ЖиганскГрупп"
+      },
+      {
+        "Name": "Лоснящийся Меховой Кошелек",
+        "Price": 736.86,
+        "Quantity": 6,
+        "Sum": 4421.16,
+        "InvoiceType": null,
+        "InvoiceSum": 4421.16,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ТСЖ Евлампий"
+      }
+    ],
+    "Id": 87446,
+    "User": 2376,
+    "CreatedAt": "2025-08-16T07:01:12.406Z",
+    "TotalSum": 5014.32
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Кожанный Сабо",
+        "Price": 170.93,
+        "Quantity": 2,
+        "Sum": 341.86,
+        "InvoiceType": 1,
+        "InvoiceSum": 341.86,
+        "ProductType": 8,
+        "PaymentType": 3,
+        "Organization form": "ИП Борислав"
+      }
+    ],
+    "Id": 43545,
+    "User": 6639,
+    "CreatedAt": "2025-08-08T14:59:18.219Z",
+    "TotalSum": 341.86
+  },
+  {
+    "Items": [
+      {
+        "Name": "Великолепный Неодимовый Компьютер (услуга)",
+        "Price": 559.06,
+        "Quantity": 4,
+        "Sum": 2236.24,
+        "InvoiceType": null,
+        "InvoiceSum": 2236.24,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Громов"
+      },
+      {
+        "Name": "Маленький Меховой Носки (услуга)",
+        "Price": 786.05,
+        "Quantity": 6,
+        "Sum": 4716.3,
+        "InvoiceType": null,
+        "InvoiceSum": 4716.3,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ЗАО Туров"
+      }
+    ],
+    "Id": 62915,
+    "User": 3192,
+    "CreatedAt": "2025-08-16T20:07:50.528Z",
+    "TotalSum": 6952.54
+  },
+  {
+    "Items": [
+      {
+        "Name": "Свободный Натуральный Сабо",
+        "Price": 317.67,
+        "Quantity": 4,
+        "Sum": 1270.68,
+        "InvoiceType": 1,
+        "InvoiceSum": 1270.68,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ИП Вишняков"
+      },
+      {
+        "Name": "Грубый Неодимовый Свитер",
+        "Price": 589.82,
+        "Quantity": 5,
+        "Sum": 2949.1,
+        "InvoiceType": 1,
+        "InvoiceSum": 2949.1,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "НКО ПензаГруппГруппТорг"
+      }
+    ],
+    "Id": 83929,
+    "User": 5195,
+    "CreatedAt": "2025-07-28T13:49:26.338Z",
+    "TotalSum": 4219.78
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Меховой Стул (услуга)",
+        "Price": 139.71,
+        "Quantity": 4,
+        "Sum": 558.84,
+        "InvoiceType": null,
+        "InvoiceSum": 558.84,
+        "ProductType": 8,
+        "PaymentType": 2,
+        "Organization form": "НКО СбытПромСбыт"
+      },
+      {
+        "Name": "Великолепный Пластиковый Стол (услуга)",
+        "Price": 670.2,
+        "Quantity": 9,
+        "Sum": 6031.8,
+        "InvoiceType": null,
+        "InvoiceSum": 6031.8,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "AO КаспийскГруппТоргСбыт"
+      },
+      {
+        "Name": "Практичный Меховой Свитер (услуга)",
+        "Price": 796.43,
+        "Quantity": 7,
+        "Sum": 5575.01,
+        "InvoiceType": null,
+        "InvoiceSum": 5575.01,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "НКО Старый ОсколИнкорпорэйтедСистемс"
+      },
+      {
+        "Name": "Эргономичный Бетонный Стул (услуга)",
+        "Price": 146.04,
+        "Quantity": 5,
+        "Sum": 730.2,
+        "InvoiceType": null,
+        "InvoiceSum": 730.2,
+        "ProductType": 2,
+        "PaymentType": 3,
+        "Organization form": "ООО Некрасов"
+      }
+    ],
+    "Id": 61959,
+    "User": 1113,
+    "CreatedAt": "2025-07-29T11:15:33.207Z",
+    "TotalSum": 12895.85
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Деревянный Шарф",
+        "Price": 371.05,
+        "Quantity": 2,
+        "Sum": 742.1,
+        "InvoiceType": 1,
+        "InvoiceSum": 742.1,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "ПАО Юлия"
+      },
+      {
+        "Name": "Эргономичный Стальной Берет",
+        "Price": 308.12,
+        "Quantity": 9,
+        "Sum": 2773.08,
+        "InvoiceType": 1,
+        "InvoiceSum": 2773.08,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "AO ЗеленоградТрейдЛимитед"
+      }
+    ],
+    "Id": 71365,
+    "User": 3143,
+    "CreatedAt": "2025-08-04T04:27:38.323Z",
+    "TotalSum": 3515.18
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Меховой Сабо (услуга)",
+        "Price": 313.18,
+        "Quantity": 4,
+        "Sum": 1252.72,
+        "InvoiceType": null,
+        "InvoiceSum": 1252.72,
+        "ProductType": 3,
+        "PaymentType": 1,
+        "Organization form": "ООО СуздальГрупп"
+      },
+      {
+        "Name": "Грубый Меховой Шарф (услуга)",
+        "Price": 782.18,
+        "Quantity": 8,
+        "Sum": 6257.44,
+        "InvoiceType": null,
+        "InvoiceSum": 6257.44,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "ОАО Москва, МГУГруппРус"
+      }
+    ],
+    "Id": 43588,
+    "User": 5375,
+    "CreatedAt": "2025-07-30T01:26:46.146Z",
+    "TotalSum": 7510.16
+  },
+  {
+    "Items": [
+      {
+        "Name": "Большой Гранитный Свитер (услуга)",
+        "Price": 601.18,
+        "Quantity": 10,
+        "Sum": 6011.8,
+        "InvoiceType": null,
+        "InvoiceSum": 6011.8,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ГУП Виктория"
+      },
+      {
+        "Name": "Большой Стальной Кошелек (услуга)",
+        "Price": 685.8,
+        "Quantity": 5,
+        "Sum": 3429,
+        "InvoiceType": null,
+        "InvoiceSum": 3429,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ИП СнабТорг"
+      },
+      {
+        "Name": "Большой Кожанный Сабо (услуга)",
+        "Price": 324.5,
+        "Quantity": 8,
+        "Sum": 2596,
+        "InvoiceType": null,
+        "InvoiceSum": 2596,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ОП СбытСнабЛимитед"
+      },
+      {
+        "Name": "Великолепный Хлопковый Ботинок (услуга)",
+        "Price": 628.51,
+        "Quantity": 9,
+        "Sum": 5656.59,
+        "InvoiceType": null,
+        "InvoiceSum": 5656.59,
+        "ProductType": 6,
+        "PaymentType": 1,
+        "Organization form": "ПАО ЗабайкальскТрейд"
+      },
+      {
+        "Name": "Свободный Деревянный Клатч (услуга)",
+        "Price": 957.51,
+        "Quantity": 6,
+        "Sum": 5745.06,
+        "InvoiceType": null,
+        "InvoiceSum": 5745.06,
+        "ProductType": 2,
+        "PaymentType": 2,
+        "Organization form": "AO Зиновий"
+      }
+    ],
+    "Id": 37422,
+    "User": 1035,
+    "CreatedAt": "2025-08-06T01:51:57.134Z",
+    "TotalSum": 23438.45
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Резиновый Компьютер",
+        "Price": 52.25,
+        "Quantity": 1,
+        "Sum": 52.25,
+        "InvoiceType": 1,
+        "InvoiceSum": 52.25,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "ФГУП МуравленкоРусГрупп"
+      },
+      {
+        "Name": "Маленький Натуральный Автомобиль",
+        "Price": 648.67,
+        "Quantity": 1,
+        "Sum": 648.67,
+        "InvoiceType": 1,
+        "InvoiceSum": 648.67,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "НКО ТрейдРус"
+      },
+      {
+        "Name": "Свободный Бетонный Ножницы",
+        "Price": 987.02,
+        "Quantity": 5,
+        "Sum": 4935.1,
+        "InvoiceType": 1,
+        "InvoiceSum": 4935.1,
+        "ProductType": 9,
+        "PaymentType": 2,
+        "Organization form": "ООО Павловский ПосадСбытИнкорпорэйтед"
+      },
+      {
+        "Name": "Грубый Гранитный Шарф",
+        "Price": 716.07,
+        "Quantity": 7,
+        "Sum": 5012.49,
+        "InvoiceType": 1,
+        "InvoiceSum": 5012.49,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ОАО Андреев"
+      }
+    ],
+    "Id": 90806,
+    "User": 2497,
+    "CreatedAt": "2025-08-01T07:00:19.266Z",
+    "TotalSum": 10648.51
+  },
+  {
+    "Items": [
+      {
+        "Name": "Грубый Бетонный Куртка",
+        "Price": 93.06,
+        "Quantity": 10,
+        "Sum": 930.6,
+        "InvoiceType": 1,
+        "InvoiceSum": 930.6,
+        "ProductType": 8,
+        "PaymentType": 1,
+        "Organization form": "ОАО Авдеев"
+      },
+      {
+        "Name": "Лоснящийся Хлопковый Куртка",
+        "Price": 964.16,
+        "Quantity": 6,
+        "Sum": 5784.96,
+        "InvoiceType": 1,
+        "InvoiceSum": 5784.96,
+        "ProductType": 9,
+        "PaymentType": 1,
+        "Organization form": "ЗАО Захаров"
+      }
+    ],
+    "Id": 48141,
+    "User": 4051,
+    "CreatedAt": "2025-08-03T16:42:33.279Z",
+    "TotalSum": 6715.56
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Стальной Плащ",
+        "Price": 400.72,
+        "Quantity": 8,
+        "Sum": 3205.76,
+        "InvoiceType": 1,
+        "InvoiceSum": 3205.76,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ГУП Марфа"
+      }
+    ],
+    "Id": 84341,
+    "User": 2382,
+    "CreatedAt": "2025-08-10T21:59:47.663Z",
+    "TotalSum": 3205.76
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Гранитный Ножницы (услуга)",
+        "Price": 711.82,
+        "Quantity": 9,
+        "Sum": 6406.38,
+        "InvoiceType": 2,
+        "InvoiceSum": 6406.38,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ЗАО Герасим"
+      },
+      {
+        "Name": "Большой Деревянный Ножницы (услуга)",
+        "Price": 592.23,
+        "Quantity": 3,
+        "Sum": 1776.69,
+        "InvoiceType": 2,
+        "InvoiceSum": 1776.69,
+        "ProductType": 7,
+        "PaymentType": 3,
+        "Organization form": "ПАО Марина"
+      },
+      {
+        "Name": "Практичный Меховой Ремень (услуга)",
+        "Price": 560.79,
+        "Quantity": 7,
+        "Sum": 3925.53,
+        "InvoiceType": 2,
+        "InvoiceSum": 3925.53,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ФГУП Анисим"
+      },
+      {
+        "Name": "Потрясающий Деревянный Сабо (услуга)",
+        "Price": 604.94,
+        "Quantity": 8,
+        "Sum": 4839.52,
+        "InvoiceType": 2,
+        "InvoiceSum": 4839.52,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ИП Кудряшов"
+      }
+    ],
+    "Id": 71485,
+    "User": 6408,
+    "CreatedAt": "2025-07-25T21:00:27.191Z",
+    "TotalSum": 16948.12
+  },
+  {
+    "Items": [
+      {
+        "Name": "Практичный Меховой Майка",
+        "Price": 746.8,
+        "Quantity": 8,
+        "Sum": 5974.4,
+        "InvoiceType": 1,
+        "InvoiceSum": 5974.4,
+        "ProductType": 10,
+        "PaymentType": 3,
+        "Organization form": "ОП НерчинскТрейд"
+      },
+      {
+        "Name": "Великолепный Хлопковый Портмоне",
+        "Price": 646.17,
+        "Quantity": 9,
+        "Sum": 5815.53,
+        "InvoiceType": 1,
+        "InvoiceSum": 5815.53,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ООО Филарет"
+      },
+      {
+        "Name": "Свободный Неодимовый Плащ",
+        "Price": 567.69,
+        "Quantity": 8,
+        "Sum": 4541.52,
+        "InvoiceType": 1,
+        "InvoiceSum": 4541.52,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ИП Лобанов"
+      },
+      {
+        "Name": "Потрясающий Хлопковый Ботинок",
+        "Price": 864.61,
+        "Quantity": 10,
+        "Sum": 8646.1,
+        "InvoiceType": 1,
+        "InvoiceSum": 8646.1,
+        "ProductType": 3,
+        "PaymentType": 2,
+        "Organization form": "ФГУП СоликамскТрейд"
+      },
+      {
+        "Name": "Практичный Натуральный Кошелек",
+        "Price": 58.14,
+        "Quantity": 6,
+        "Sum": 348.84,
+        "InvoiceType": 1,
+        "InvoiceSum": 348.84,
+        "ProductType": 6,
+        "PaymentType": 2,
+        "Organization form": "МУП ОрскГрупп"
+      }
+    ],
+    "Id": 38282,
+    "User": 8607,
+    "CreatedAt": "2025-08-08T21:34:32.585Z",
+    "TotalSum": 25326.39
+  },
+  {
+    "Items": [
+      {
+        "Name": "Маленький Меховой Портмоне",
+        "Price": 707.8,
+        "Quantity": 9,
+        "Sum": 6370.2,
+        "InvoiceType": null,
+        "InvoiceSum": 6370.2,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "ФГУП ГородовиковскГрупп"
+      },
+      {
+        "Name": "Лоснящийся Стальной Ботинок",
+        "Price": 711.59,
+        "Quantity": 7,
+        "Sum": 4981.13,
+        "InvoiceType": null,
+        "InvoiceSum": 4981.13,
+        "ProductType": 5,
+        "PaymentType": 3,
+        "Organization form": "ИП ЩельяюрТоргСнабСистемс"
+      },
+      {
+        "Name": "Фантастический Хлопковый Компьютер",
+        "Price": 892.66,
+        "Quantity": 8,
+        "Sum": 7141.28,
+        "InvoiceType": null,
+        "InvoiceSum": 7141.28,
+        "ProductType": 2,
+        "PaymentType": 1,
+        "Organization form": "ФГУП Соловьев"
+      },
+      {
+        "Name": "Грубый Бетонный Автомобиль",
+        "Price": 314.58,
+        "Quantity": 7,
+        "Sum": 2202.06,
+        "InvoiceType": null,
+        "InvoiceSum": 2202.06,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ОП СоболевоТрейдИнкорпорэйтедИнкорпорэйтед"
+      },
+      {
+        "Name": "Практичный Гранитный Клатч",
+        "Price": 951.96,
+        "Quantity": 9,
+        "Sum": 8567.64,
+        "InvoiceType": null,
+        "InvoiceSum": 8567.64,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ИП АпрелевкаПром"
+      }
+    ],
+    "Id": 46405,
+    "User": 7430,
+    "CreatedAt": "2025-08-10T16:47:14.189Z",
+    "TotalSum": 29262.31
+  },
+  {
+    "Items": [
+      {
+        "Name": "Фантастический Стальной Кошелек (услуга)",
+        "Price": 845.13,
+        "Quantity": 6,
+        "Sum": 5070.78,
+        "InvoiceType": 2,
+        "InvoiceSum": 5070.78,
+        "ProductType": 1,
+        "PaymentType": 1,
+        "Organization form": "ИП Соколов"
+      }
+    ],
+    "Id": 20338,
+    "User": 1886,
+    "CreatedAt": "2025-08-07T04:24:36.880Z",
+    "TotalSum": 5070.78
+  },
+  {
+    "Items": [
+      {
+        "Name": "Невероятный Хлопковый Клатч",
+        "Price": 759.07,
+        "Quantity": 9,
+        "Sum": 6831.63,
+        "InvoiceType": 1,
+        "InvoiceSum": 6831.63,
+        "ProductType": 4,
+        "PaymentType": 3,
+        "Organization form": "ЗАО Попов"
+      },
+      {
+        "Name": "Большой Неодимовый Куртка",
+        "Price": 929.93,
+        "Quantity": 10,
+        "Sum": 9299.3,
+        "InvoiceType": 1,
+        "InvoiceSum": 9299.3,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ОП РусСбыт"
+      }
+    ],
+    "Id": 16950,
+    "User": 8643,
+    "CreatedAt": "2025-08-08T09:28:12.613Z",
+    "TotalSum": 16130.93
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Деревянный Портмоне (услуга)",
+        "Price": 180.96,
+        "Quantity": 8,
+        "Sum": 1447.68,
+        "InvoiceType": null,
+        "InvoiceSum": 1447.68,
+        "ProductType": 7,
+        "PaymentType": 2,
+        "Organization form": "ТСЖ Ладислав"
+      },
+      {
+        "Name": "Потрясающий Хлопковый Носки (услуга)",
+        "Price": 482.58,
+        "Quantity": 2,
+        "Sum": 965.16,
+        "InvoiceType": null,
+        "InvoiceSum": 965.16,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ЗАО Ксения"
+      }
+    ],
+    "Id": 93568,
+    "User": 7889,
+    "CreatedAt": "2025-08-04T18:56:54.613Z",
+    "TotalSum": 2412.84
+  },
+  {
+    "Items": [
+      {
+        "Name": "Лоснящийся Натуральный Носки",
+        "Price": 21.73,
+        "Quantity": 1,
+        "Sum": 21.73,
+        "InvoiceType": 1,
+        "InvoiceSum": 21.73,
+        "ProductType": 9,
+        "PaymentType": 3,
+        "Organization form": "ИП ТоксовоТоргГруппТрейд"
+      },
+      {
+        "Name": "Практичный Деревянный Стол",
+        "Price": 172.58,
+        "Quantity": 8,
+        "Sum": 1380.64,
+        "InvoiceType": 1,
+        "InvoiceSum": 1380.64,
+        "ProductType": 3,
+        "PaymentType": 3,
+        "Organization form": "AO БиробиджанСбытПром"
+      },
+      {
+        "Name": "Фантастический Натуральный Клатч",
+        "Price": 293.27,
+        "Quantity": 4,
+        "Sum": 1173.08,
+        "InvoiceType": 1,
+        "InvoiceSum": 1173.08,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ЗАО Архипов"
+      },
+      {
+        "Name": "Великолепный Хлопковый Берет",
+        "Price": 458.22,
+        "Quantity": 5,
+        "Sum": 2291.1,
+        "InvoiceType": 1,
+        "InvoiceSum": 2291.1,
+        "ProductType": 7,
+        "PaymentType": 1,
+        "Organization form": "НКО ИнкорпорэйтедТрейд"
+      },
+      {
+        "Name": "Невероятный Кожанный Шарф",
+        "Price": 621.67,
+        "Quantity": 8,
+        "Sum": 4973.36,
+        "InvoiceType": 1,
+        "InvoiceSum": 4973.36,
+        "ProductType": 5,
+        "PaymentType": 1,
+        "Organization form": "ОАО Пушкино (Моск.)Инкорпорэйтед"
+      }
+    ],
+    "Id": 67300,
+    "User": 1091,
+    "CreatedAt": "2025-08-17T21:18:17.143Z",
+    "TotalSum": 9839.91
+  },
+  {
+    "Items": [
+      {
+        "Name": "Эргономичный Неодимовый Автомобиль",
+        "Price": 657.32,
+        "Quantity": 3,
+        "Sum": 1971.96,
+        "InvoiceType": 1,
+        "InvoiceSum": 1971.96,
+        "ProductType": 10,
+        "PaymentType": 1,
+        "Organization form": "ТСЖ Эдуард"
+      },
+      {
+        "Name": "Потрясающий Деревянный Стол",
+        "Price": 370.86,
+        "Quantity": 7,
+        "Sum": 2596.02,
+        "InvoiceType": 1,
+        "InvoiceSum": 2596.02,
+        "ProductType": 4,
+        "PaymentType": 1,
+        "Organization form": "ГУП СистемсТорг"
+      }
+    ],
+    "Id": 48841,
+    "User": 8408,
+    "CreatedAt": "2025-08-11T19:16:24.329Z",
+    "TotalSum": 4567.98
+  }
+]
